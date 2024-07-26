@@ -1,0 +1,3 @@
+> [!DANGER] Definition: Kern (Nullraum)
+> Der **Kern** oder **Nullraum** einer [Matrix](../Matrix.md) $A\in K^{m\times n}$ ist die Menge aller [Spaltenvektoren](../../Vektoren%20als%20Matrizen/Spaltenvektor.md) $\vec{v}\in K^{n\times 1}$, die $A$ zum Nullvektor $\vec{0}\in K^{n\times 1}$ transformiert.
+> $$\ker(A) \overset{\text{def}}{=} \{\vec{v}\in K^{n\times 1} \mid A\vec{v}=\vec{0}\in K^{n\times 1}\}$$

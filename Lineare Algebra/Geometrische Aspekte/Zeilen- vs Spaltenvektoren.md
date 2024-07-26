@@ -1,0 +1,2 @@
+> [!WARNING] Warnung: Zeilen- vs Spaltenvektoren
+> Bei den geometrischen Aspekte der linearen Algebra ist der Unterschied zwischen [Zeilen-](../Vektoren%20als%20Matrizen/Zeilenvektor.md) und [Spaltenvektoren](../Vektoren%20als%20Matrizen/Spaltenvektor.md) unwichtig, denn man kann anhand des [Transponierens](../Matrizen/Matrizenoperationen/Transponieren.md) von der einen zu der anderen Form wechseln. Daher wird dieser Unterschied von nun an ignoriert und die nötigen Transponierensoperationen sollten implizit geschehen.
