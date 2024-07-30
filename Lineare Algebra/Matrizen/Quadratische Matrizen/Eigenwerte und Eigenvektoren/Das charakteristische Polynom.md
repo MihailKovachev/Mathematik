@@ -1,0 +1,3 @@
+> [!DANGER] Definition: Das charakteristische Polynom
+> Das **charakteristische [Polynom](../../../../Analysis/Polynome/Polynom.md)** einer [quadratischen Matrix](Quadratische%20Matrix.md) $M\in K^{n\times n}$ wird anhand der [Determinante](../../Determinanten/Determinante.md) von $M$ und der [Einheitsmatrix](Einheitsmatrix.md) $I_n$ definiert:
+> $$p_M(x) \overset{\text{def}}{=} \det(M-x I_n)$$

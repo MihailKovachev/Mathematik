@@ -1,0 +1,3 @@
+> [!IMPORTANT] Satz: Abstraktes inneres Produkt
+> Das [komplexe Skalarprodukt](Komplexe%20Vektoren/Komplexes%20Skalarprodukt.md) ist ein [abstraktes inneres Produkt](../../Abstrakte%20lineare%20Algebra/Euklidische%20Vektorräume/Abstraktes%20inneres%20Produkt.md) und somit ist $\mathbb{C}^n$ ein [euklidischer](../../Abstrakte%20lineare%20Algebra/Euklidische%20Vektorräume/Abstraktes%20inneres%20Produkt.md) [Vektorraum](../../Abstrakte%20lineare%20Algebra/Abstrakter%20Vektorraum.md) über dem [Körper](../../../Mengenlehre/Körper/Körper.md) der [komplexen Zahlen](../../../Komplexe%20Zahlen/Komplexe%20Zahlen.md).
+> > [!CHECK]- Beweis

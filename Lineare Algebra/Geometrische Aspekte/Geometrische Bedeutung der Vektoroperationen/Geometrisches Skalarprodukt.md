@@ -1,5 +1,5 @@
 > [!IMPORTANT] Geometrisches Skalarprodukt
-> Für das [Skalarprodukt](../../Vektoren%20als%20Matrizen/Skalarprodukt.md) $\vec{u}^\mathsf{T}\cdot\vec{v}$ zweier Vektoren $\vec{u},\vec{v}\in\mathbb{R}^3$ gilt
+> Für das [Komplexes Skalarprodukt](../../Vektoren%20als%20Matrizen/Komplexe%20Vektoren/Komplexes%20Skalarprodukt.md) $\vec{u}^\mathsf{T}\cdot\vec{v}$ zweier Vektoren $\vec{u},\vec{v}\in\mathbb{R}^3$ gilt
 > $$\vec{u}^\mathsf{T}\cdot\vec{v} = ||\vec{u}||||\vec{v}||\cos\angle(\vec{u};\vec{v})$$
 > ![](Resources/Skalarprodukt.png)
 > > [!CHECK]- Beweis

@@ -1,11 +1,5 @@
----
-Related:
-  - "[[Ableitung und Differenzierbarkeit]]"
-  - "[[../Grenzwerte von Funktionen/Stetigkeit/Stetigkeit|Stetigkeit]]"
----
-
 > [!IMPORTANT] Satz: Differenzierbarkeit $\implies$ Stetigkeit
-> Ist $f: D\subseteq \mathbb{R}\to\mathbb{R}$ in $x_0\in D$ differenzierbar, so ist $f$ auch [stetig](../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) in $x_0$.
+> Ist $f: D\subseteq \mathbb{R}\to\mathbb{R}$ in $x_0\in D$ [differenzierbar](Ableitung%20und%20Differenzierbarkeit.md), so ist $f$ auch [stetig](../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) in $x_0$.
 > > [!CHECK]- Beweis
 > > Sei $f: D\subseteq \mathbb{R}\to\mathbb{R}$ in $x_0$ differenzierbar. Dann existiert
 > > $$\lim_{\Delta x \to 0} \frac{f(x_0 + \Delta x)-f(x_0)}{\Delta x} = f'(x_0) \in \mathbb{R}$$

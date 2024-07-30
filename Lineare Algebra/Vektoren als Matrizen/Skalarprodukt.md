@@ -1,3 +1,0 @@
-> [!DANGER] Definition: Inneres Produkt
-> Das **innere Produkt** (auch **Skalar-** oder **Punktprodukt**) $\cdot: K^{1\times n}\times K^{n\times 1}\to K$ eines [Zeilenvektors](Zeilenvektor.md) $\vec{u}\in K^{1\times n}$ mit einem [Spaltenvektor](Spaltenvektor.md) $\vec{v}\in K^{n\times 1}$ ist die Summe der Multiplikation der jeweiligen Komponenten der Vektoren:
-> $$\vec{u}\cdot\vec{v} = \begin{bmatrix}u_1 & \cdots & u_n\end{bmatrix} \begin{bmatrix}v_1 \\ \vdots \\ v_n\end{bmatrix} \overset{\text{def}}{=} \sum_{i=1}^n u_i v_i$$

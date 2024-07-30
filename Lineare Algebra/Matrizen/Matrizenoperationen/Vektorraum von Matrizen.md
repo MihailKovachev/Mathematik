@@ -1,5 +1,5 @@
 > [!IMPORTANT] Satz: Vektorraum von Matrizen
-> Der [Körper](../../../Mengenlehre/Körper/Körper.md) $K$ (entweder $\mathbb{C}$ oder $\mathbb{R}$) und die Menge $K^{m\times n}$ der $m\times n$-[Matrizen](../Matrix.md) machen mit der [Addition](Addition.md) und der [skalaren Multiplikation](Skalare%20Multiplikation.md) von Matrizen einen [abstrakten Vektorraum](../../Abstrakte%20lineare%20Algebra/Abstrakter%20Vektorraum.md) $(K^{m\times n}, K, +, \cdot)$, also es gilt:
+> Der [Körper](../../../Mengenlehre/Körper/Körper.md) $K$ und die [Menge](../../../Mengenlehre/Menge.md) $K^{m\times n}$ der $m\times n$-[Matrizen](../Matrix.md) bilden mit der [Addition](Addition.md) und der [skalaren Multiplikation](Skalare%20Multiplikation.md) von Matrizen einen [abstrakten Vektorraum](../../Abstrakte%20lineare%20Algebra/Abstrakter%20Vektorraum.md) $(K^{m\times n}, K, +, \cdot)$, also es gilt:
 > - Kommutativität der Addition: $A + B = B + A \qquad \forall A, B \in K^{m\times n}$
 > - Assoziativität I: $A + (B + C) = (A + B) + C \qquad \forall A,B,C \in K^{m\times n}$
 > - Assoziativität II: $(\lambda\mu)A = \lambda(\mu A) \qquad \forall \lambda,\mu\in K, \forall A\in K^{m\times n}$
@@ -13,3 +13,5 @@
 > 
 > > [!NOTE] Notiz: Inverse Matrizen
 > > Die vorgenannte inverse Matrix ist *nicht* dieselbe [inverse Matrix](../Invertieren/Invertierbarkeit.md) wie bei der [Multiplikation von Matrizen](Multiplikation%20von%20Matrizen.md).
+> 
+> > [!CHECK]- Beweis

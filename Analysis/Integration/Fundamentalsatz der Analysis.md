@@ -1,7 +1,7 @@
 > [!IMPORTANT] Satz: Der Fundamentalsatz der Analysis (Teil I)
 > Ist $f: [a;b] \to \mathbb{R}$ eine [stetige](../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) [Funktion](../Funktionen/Funktion.md), so ist $F: [a;b] \to \mathbb{R}$
 > $$F(x) \overset{\text{def}}{=} \int_c^x f(t) \mathop{\mathrm{d}t}$$
->  für jedes $c\in [a;b]$ eine [Stammfunktion](Stammfunktion.md) von $f$.
+>  für jedes $c\in [a;b]$ eine [Stammfunktion](Unbestimmte%20Integrale/Stammfunktion.md) von $f$.
 >  
 > > [!NOTE] Notiz: Geschlossene Form der Stammfunktionen
 > > Dieser Satz bedeutet, dass jede stetige Funktion mindestens eine Stammfunktion hat. Diese Stammfunktion ist aber nicht in geschlossener Form angegeben und oft besteht keine solche Darstellung.
@@ -14,7 +14,7 @@
 > > Für alle $c, x_0,\Delta x \in [a;b]$ mit $x_0+\Delta x \in [a;b]$ gilt
 > > $$\begin{align}F(x_0+\Delta x) - F(x_0) &= \int_c^{x_0+\Delta x} f(t)\mathop{\mathrm{d}t} - \int_c^{x_0} f(t)\mathop{\mathrm{d}t} \\ &= \int_c^{x_0+\Delta x} f(t)\mathop{\mathrm{d}t} + \int_{x_0}^c f(t)\mathop{\mathrm{d}t} \\ &= \int_{x_0}^c f(t)\mathop{\mathrm{d}t} + \int_c^{x_0+\Delta x} f(t)\mathop{\mathrm{d}t} \\ &= \int_{x_0}^{x_0+\Delta x}f(t) \mathop{\mathrm{d}t}\end{align}$$
 > > 
-> > Nach dem [Mittelwertsatz der Integralrechnung](Mittelwertsatz%20der%20Integralrechnung.md) besteht ein $\xi \in[x_0;x_0+\Delta x]$ derart, dass
+> > Nach dem [Mittelwertsatz der Integralrechnung](Bestimmte%20Integrale/Mittelwertsatz%20der%20Integralrechnung.md) besteht ein $\xi \in[x_0;x_0+\Delta x]$ derart, dass
 > > $$\int_{x_0}^{x_0+\Delta x}f(t) \mathop{\mathrm{d}t} = f(\xi)(x_0 + \Delta x - x_0) = f(\xi)\cdot\Delta x$$
 > > Daraus folgt
 > > $$\frac{F(x_0+\Delta x) - F(x_0)}{\Delta x} = f(\xi)$$
@@ -29,14 +29,14 @@
 > > $$F'(x_0) = f(x_0)$$
 
 > [!IMPORTANT] Satz: Der Fundamentalsatz der Analysis (Teil II)
-> Ist $f: [a;b] \to \mathbb{R}$ eine [stetige](../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) [Funktion](../Funktionen/Funktion.md), dann gilt für jede beliebige [Stammfunktion](Stammfunktion.md) $F: [a;b] \to \mathbb{R}$ von $f$
+> Ist $f: [a;b] \to \mathbb{R}$ eine [stetige](../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) [Funktion](../Funktionen/Funktion.md), dann gilt für jede beliebige [Stammfunktion](Unbestimmte%20Integrale/Stammfunktion.md) $F: [a;b] \to \mathbb{R}$ von $f$
 > $$\int_a^b f(x) \mathop{\mathrm{d}x} = F(b) - F(a)$$
 >
 > > [!NOTE] Schreibweise
 > > Oft schreibt man $F(b) - F(a)$ als $F(x)\Big|_a^b$.
 > 
 > > [!QUOTE] Bestimmte vs Unbestimmte Integrale
-> > Dieser Satz liefert einen Weg zur Berechnenung von [bestimmten Integralen](Bestimmtes%20(Riemann-)Integral.md) anhand [unbestimmter Integrale](Unbestimmtes%20Integral.md).
+> > Dieser Satz liefert einen Weg zur Berechnenung von [bestimmten Integralen](Bestimmte%20Integrale/Bestimmtes%20(Riemann-)Integral.md) anhand [unbestimmter Integrale](Unbestimmte%20Integrale/Unbestimmtes%20Integral.md).
 > 
 > > 
 > 

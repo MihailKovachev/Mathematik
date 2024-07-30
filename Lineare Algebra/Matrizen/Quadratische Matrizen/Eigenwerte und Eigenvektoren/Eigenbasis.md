@@ -1,0 +1,2 @@
+> [!DANGER] Definition: Eigenbasis
+> Eine **Eigenbasis** der [quadratischen Matrix](../Quadratische%20Matrix.md) $M\in K^{n\times n}$ ist eine geordnete [Basis](../../../Abstrakte%20lineare%20Algebra/Basis/Basis.md) von $K^n$, die aus [Eigenvektoren](Eigenvektor.md) von $M$ besteht.

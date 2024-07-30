@@ -1,0 +1,2 @@
+> [!DANGER] Definition: Komplexe Matrix
+> Eine **komplexe Matrix** ist eine [Matrix](Matrix.md) $A\in \mathbb{C}^{m\times n}$ über dem [Körper der komplexen Zahlen](../../../Komplexe%20Zahlen/Körper%20der%20komplexen%20Zahlen.md).

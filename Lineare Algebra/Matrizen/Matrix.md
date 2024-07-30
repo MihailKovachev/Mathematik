@@ -1,7 +1,7 @@
 > [!DANGER] Definition: Matrix
-> Ein rechteckiges Zahlenschema
-> $$A = \begin{bmatrix}a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\  a_{m1} & a_{m2} & \cdots & a_{mn}\end{bmatrix} = (a_{ij})_{m,n} = a_{ij}$$
-> mit $m$ Zeilen, $n$ Spalten und Elementen $a_{ij}\in\mathbb{R}$ oder $a_{ij}\in\mathbb{C}$ nennt man **reelle** bzw. **komplexe** $m\times n$**-Matrix**.
+> Eine **Matrix** $A\in K^{m\times n}$ über dem [Körper](../../Mengenlehre/Körper/Körper.md) $K$ ist ein rechteckiges Schema
+> $$A \overset{\text{def}}{=} \begin{bmatrix}a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\  a_{m1} & a_{m2} & \cdots & a_{mn}\end{bmatrix} \equiv (a_{ij})_{m,n} \equiv a_{ij}$$
+> mit $m$ Zeilen, $n$ Spalten und Elementen $a_{ij}\in K$.
 
 > [!DANGER] Definition: Nullmatrix
 > Die Matrix

@@ -1,0 +1,2 @@
+> [!DANGER] Definition: Komplexer Spaltenvektor
+> Ein **komplexer Spaltenvektor** ist ein [Spaltenvektor](../Spaltenvektor.md) $\vec{v}\in \mathbb{C}^{n\times 1}$, dessen Koeffizienten [komplexe Zahlen](../../../Komplexe%20Zahlen/Komplexe%20Zahlen.md) sind.
