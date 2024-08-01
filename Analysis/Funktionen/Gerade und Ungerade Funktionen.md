@@ -3,12 +3,12 @@ Related:
 - "[[Funktion]]"
 ---
 
-> [!DANGER] Definition: Gerade Funktion
+> [!DEFINITION] Definition: Gerade Funktion
 > Eine reellwertige Funktion $f: D \to \mathbb{R}$ nennt man **gerade**, falls für jedes $x \in D$
 > $$f(-x) = f(x)$$
 > gilt.
 
-> [!DANGER] Definition: Ungerade Funktion
+> [!DEFINITION] Definition: Ungerade Funktion
 > Eine reellwertige Funktion $f: D \to \mathbb{R}$ nennt man **ungerade**, falls für jedes $x \in D$
 > $$f(-x) = -f(x)$$
 > gilt.

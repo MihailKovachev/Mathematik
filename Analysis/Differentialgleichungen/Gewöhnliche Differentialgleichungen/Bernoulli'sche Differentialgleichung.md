@@ -1,9 +1,9 @@
-> [!DANGER] Definition: Bernoulli'sche Differentialgleichung
+> [!DEFINITION] Definition: Bernoulli'sche Differentialgleichung
 > Eine **Bernoulli'sche Differentialgleichung** ist eine [gewöhnliche Differentialgleichung](Gewöhnliche%20Differentialgleichung.md) der Form
 > $$y'(x) + p(x)y(x) = g(x)y(x)^\alpha,$$
 > wobei $\alpha\in\mathbb{R}\setminus \{0,1\}$.
 
-> [!TODO] Algorithmus: Lösen einer Bernoulli'schen Differentialgleichung
+> [!ALGORITHM] Algorithmus: Lösen einer Bernoulli'schen Differentialgleichung
 > Wir lösen die Bernoulli'sche Differentialgleichung
 > $$y'(x) + p(x)y(x) = g(x)y(x)^\alpha \qquad \alpha\in\mathbb{R}\setminus \{0,1\}$$
 > 1. Setze $z(x) = y(x)^{1-\alpha}$:

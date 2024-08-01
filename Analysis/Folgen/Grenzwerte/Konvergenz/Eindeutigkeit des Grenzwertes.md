@@ -1,6 +1,6 @@
-> [!IMPORTANT] Satz: Eindeutigkeit des Grenzwertes
+> [!THEOREM] Satz: Eindeutigkeit des Grenzwertes
 > Jede [konvergente](Konvergenz.md) [Folge](../../Folge.md) besitzt nur einen [Grenzwert](Konvergenz.md).
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Seien $L_1, L_2$ zwei Grenzwerte der Folge $(a_n)_{n\in\mathbb{N}}$. Dann existiert für jedes $\varepsilon \gt 0$ ein $N_1 \in \mathbb{N}$ mit der Eigenschaft, dass
 > > $$|a_n - L_1| \lt \frac{\varepsilon}{2}$$
 > > für alle $n \ge N_1$ gilt (Da nach Definition $\varepsilon$ jede Zahl sein darf, können wir $\varepsilon$ durch $\frac{\varepsilon}{2}$ ersetzen). In Analogie dazu gibt es ein $N_2\in\mathbb{N}$ mit der Eigenschaft, dass

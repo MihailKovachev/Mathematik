@@ -1,7 +1,7 @@
-> [!IMPORTANT] Satz: Konvergenzkriterium
+> [!THEOREM] Satz: Konvergenzkriterium
 > Eine [Folge](../../Folge.md) $(a_n)_{n\in\mathbb{N}}$ ist genau dann gegen $L$ konvergent, wenn 
 > $$\lim_{n\to\infty} |a_n - L| = 0$$
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Wir müssen beide Richtungen beweisen.
 > > 
 > > Zunächst sei $(a_n)_{n\in\mathbb{N}}$ konvergent gegen $L$, also gibt es für jedes $\varepsilon \gt 0$ ein $n \in \mathbb{N}$ derart, dass

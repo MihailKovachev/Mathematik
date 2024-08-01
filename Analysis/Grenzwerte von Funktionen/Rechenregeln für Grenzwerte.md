@@ -3,7 +3,7 @@ Related:
   - "[[Grenzwerte|Grenzwerte]]"
 ---
 
-> [!IMPORTANT] Satz: Rechenregeln für Grenzwerte
+> [!THEOREM] Satz: Rechenregeln für Grenzwerte
 > Falls $\displaystyle\lim_{x\to c} f(x), \displaystyle\lim_{x \to c} g(x) \in \mathbb{R}$ existieren, dann gelten
 > $$\lim_{x\to c} (\alpha f(x)) = \alpha \lim_{x\to c} f(x), \forall \alpha \in \mathbb{R}$$
 > $$\lim_{x\to c} (f(x) \pm g(x)) = \lim_{x\to c} f(x) \pm \lim_{x\to c} g(x)$$

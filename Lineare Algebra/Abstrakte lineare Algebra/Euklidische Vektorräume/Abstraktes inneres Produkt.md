@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Abstraktes inneres Produkt
+> [!DEFINITION] Definition: Abstraktes inneres Produkt
 > Ein **Abstraktes inneres Produkt** (oder **abstraktes Skalar-/Punktprodukt**) auf einem komplexen Vektorraum $(V, \mathbb{C}, +, \cdot)$ ist eine Verknüpfung $\langle\cdot,\cdot\rangle: V\times V\to \mathbb{C}$, die die folgenden Eigenschaften besitzt.
 > 1. Hermetisch
 > $$\langle\mathbf{u},\mathbf{v}\rangle = \overline{\langle\mathbf{v},\mathbf{u}\rangle} \qquad \forall \mathbf{u},\mathbf{v} \in V$$
@@ -13,5 +13,5 @@
 > > [!NOTE] Notiz: Abstraktes inneres Produkt auf reellen Vektorräume
 > > Die Definition für reelle Vektorräume ist genau die gleiche - man lässt einfach die [komplexe Konjugation](../../../Komplexe%20Zahlen/komplexe%20Konjugation/Komplexe%20Konjugation.md) weg.
 
-> [!DANGER] Definition: Eukledischer Vektorraum
+> [!DEFINITION] Definition: Eukledischer Vektorraum
 > Ein **eukledischer Vektorraum** ist ein [Vektorraum](../Abstrakter%20Vektorraum.md) $(V,K,+,\cdot)$, der mit einem Skalarprodukt ausgerüstet ist.

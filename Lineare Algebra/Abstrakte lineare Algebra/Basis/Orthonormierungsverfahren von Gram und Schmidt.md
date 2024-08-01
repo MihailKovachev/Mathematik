@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Das Gram-Schmidt'sche Orthonormierungsverfahren
+> [!ALGORITHM] Algorithmus: Das Gram-Schmidt'sche Orthonormierungsverfahren
 > Aus jeder [Basis](Basis.md) $\{\mathbf{b}_1,\cdots,\mathbf{b}_n\}$ eines [endlichdimensionalen](Dimension.md) [euklidischen Vektorraums](../Euklidische%20Vektorräume/Abstraktes%20inneres%20Produkt.md) lässt sich eine [Orthonormalbasis](Orthonormalbasis.md) $\{\mathbf{b}_1',\cdots,\mathbf{b}_n'\}$ folgendermaßen bilden:
 > 1. Wir normalisieren zunächst den ersten Vektor, damit seine [Norm (Länge)](../Euklidische%20Vektorräume/Norm%20(Länge).md) gleich 1 wird.
 > $$\mathbf{b}_1' = \frac{1}{||\mathbf{b}_1||}\mathbf{b}_1$$

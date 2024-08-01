@@ -5,9 +5,9 @@ Related:
   - "[[../../Beschränktheit/Beschränktheit reeller Folgen|Beschränktheit reeller Folgen]]"
 ---
 
-> [!IMPORTANT] Satz: Beschränktheit konvergenter reeller Folgen
+> [!THEOREM] Satz: Beschränktheit konvergenter reeller Folgen
 > Jede konvergente reelle Folge ist beschränkt.
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Sei $(a_n)_{n\in\mathbb{N}}$ eine konvergente Folge, die gegen $L$ konvergier. Das heißt, für jedes $\varepsilon \gt 0$ gibt es ein $N \in \mathbb{N}$ mit
 > > $$|a_n - L| \lt \varepsilon, \forall n \ge N$$
 > > Wir wählen $\varepsilon = 1$. Dann ergibt sich

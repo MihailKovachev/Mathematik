@@ -1,4 +1,4 @@
-> [!IMPORTANT] Satz: Darstellung als Matrizen
+> [!THEOREM] Satz: Darstellung als Matrizen
 > Jede [lineare Transformation](Lineare%20Transformation.md) $T: V \to W$ vom [Vektorraum](../Abstrakter%20Vektorraum.md) $(V,K,+,\cdot)$ in den Vektorraum $(W,K,+,\cdot)$ lässt sich als eine [Matrix](../../Matrizen/Matrix.md) $M_T\in K^{\dim(W)\times \dim(V)}$ darstellen.
 > 
 > Seien $B_V$ und $B_W$ *geordnete [Basen](../Basis/Basis.md)* von jeweils $V$ und $W$. Für jeden Vektor $\mathbf{v}\in V$ gilt
@@ -11,7 +11,7 @@
 > > Um dies klarer werden zu lassen, notieren wir oftmals 
 > > $${}_{B_{W}}[M_T]_{B_{V}}$$ 
 
-> [!TODO] Algorithmus: Konstruieren der Matrizendarstellung
+> [!ALGORITHM] Algorithmus: Konstruieren der Matrizendarstellung
 > Sei $T: V\to W$ eine [lineare Transformation](Lineare%20Transformation.md). Wir wählen auch eine [Basis](../Basis/Basis.md) $B_V = (\mathbf{b}_1^V,\cdots,\mathbf{b}_m^V)$ von $V$ und eine Basis $B_W = (\mathbf{b}_1^W,\cdots,\mathbf{b}_n^W)$ von $W$. 
 > 
 > Wir suchen nach derjenigen Matrix ${}_{B_W}[M_T]_{B_V}$, die durch $B_V$ dargestellte Vektoren anhand von $T$ transformiert und das Ergebnis durch $B_W$ äußert.

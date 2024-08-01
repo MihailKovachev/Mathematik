@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Bestimmtes (Riemann-)Integral
+> [!DEFINITION] Definition: Bestimmtes (Riemann-)Integral
 > Eine [Funktion](../../Funktionen/Funktion.md) $f: [a;b] \to \mathbb{R}$ heißt **(Riemann-)integrierbar** auf $[a;b]$, falls alle ihre [Riemann-Summen](Riemann-Summen.md) gegen eine bestimmte Zahl $S$ für $\Delta x_i \to 0$ konvergieren. 
 > $$\lim_{\Delta x_i\to 0}\sum_{i=1}^n f(x_i^\ast)\Delta x_i = S \in \mathbb{R}$$
 > 

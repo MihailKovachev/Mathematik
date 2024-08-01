@@ -4,18 +4,18 @@ Related:
   - "[[../Funktionen/Gerade und Ungerade Funktionen|Gerade und Ungerade Funktionen]]"
 ---
 
-> [!IMPORTANT] Satz: Ableitung einer geraden Funktion
+> [!THEOREM] Satz: Ableitung einer geraden Funktion
 > Die Ableitung einer [geraden](../Funktionen/Gerade%20und%20Ungerade%20Funktionen.md) Funktion ist ungerade.
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Sei $f(x)$ eine gerade Funktion, also
 > > $$f(-x) = f(x)$$
 > > Wir ableiten nun diese Gleichung auf beiden Seiten und mithilfe der Kettenregel (also $g(x) = -x$) ergibt sich
 > > $$(-1)f'(-x) = f'(x)$$
 > > $$f'(-x) = -f'(x)$$
 
-> [!IMPORTANT] Satz: Ableitung einer ungeraden Funktion
+> [!THEOREM] Satz: Ableitung einer ungeraden Funktion
 > Die Ableitung einer ungeraden Funktion ist gerade.
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Sei $f(x)$ eine ungerade Funktion, also
 > > $$f(-x) = -f(x)$$
 > > Wir ableiten nun diese Gleichung auf beiden Seiten und mithilfe der Kettenregel (also $g(x) = -x$) ergibt sich

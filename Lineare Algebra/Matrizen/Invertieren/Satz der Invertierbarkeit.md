@@ -1,4 +1,4 @@
-> [!IMPORTANT] Satz der Invertierbarkeit
+> [!THEOREM] Satz der Invertierbarkeit
 > Für jede [quadratische Matrix](../Quadratische%20Matrizen/Quadratische%20Matrix.md) $M\in K^{n\times n}$ sind die fokgenden Aussagen äquivalent.
 > - $M$ ist [invertierbar](Invertierbarkeit.md).
 > - Das [Transponierte](../Matrizenoperationen/Transponieren.md) von $M$ ist invertierbar.
@@ -11,4 +11,4 @@
 > - Die [Zeilen](../Matrizenräume/Zeilenraum.md) von $M$ sind eine Basis von $K^n$.
 > - Der [Rang](../Matrizenräume/Rang.md) von $M$ ist $n$, also $\operatorname{rank}(M) = n$.
 > 
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis

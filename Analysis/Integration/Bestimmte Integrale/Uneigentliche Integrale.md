@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Uneigentliche Integrale
+> [!DEFINITION] Definition: Uneigentliche Integrale
 > Für $a\in\mathbb{R}$ und die [Funktion](../../Funktionen/Funktion.md) $f:[a;\infty)\to\mathbb{R}$ definiert man das **uneigentliche Integral**
 > $$\int_a^\infty f(x)\mathop{\mathrm{d}x}\overset{\text{def}}{=} \lim_{b\to\infty}\int_a^b f(x)\mathop{\mathrm{d}x}$$
 > 

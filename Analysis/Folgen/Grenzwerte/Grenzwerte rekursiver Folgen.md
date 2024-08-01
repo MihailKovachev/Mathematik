@@ -4,7 +4,7 @@ Related:
   - "[[Konvergenz/Konvergenz|Konvergenz]]"
 ---
 
-> [!TODO] Algorithmus: Bestimmen des Grenzwertes einer rekursiven Folge
+> [!ALGORITHM] Algorithmus: Bestimmen des Grenzwertes einer rekursiven Folge
 > Sei $(a_n)_{n\in\mathbb{N}}$ eine reelle, rekursiv definierte Folge, z. B.
 > $$a_1 = a, a_2 = a', a_{n+1} = \mu a_n - \lambda a_{n-1}^2$$
 > 

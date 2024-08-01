@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Potenzmenge
+> [!DEFINITION] Definition: Potenzmenge
 > Die **Potenzmenge** $\mathscr{P}(M)$ einer [Menge](Menge.md) $M$ ist die Menge aller [Teilmengen](Teilmenge.md) von $M$.
 > $$\mathscr{P}(M) \overset{\text{def}}{=} \{T \mid T \subseteq M\}$$
 > > [!NOTE] Schreibweise

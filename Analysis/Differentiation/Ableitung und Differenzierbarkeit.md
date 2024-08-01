@@ -3,18 +3,18 @@ Related:
   - "[[../Funktionen/Funktion|Funktion]]"
 ---
 
-> [!DANGER]+ Definition: Differenzierbarkeit
+> [!DEFINITION]+ Definition: Differenzierbarkeit
 > Eine Funktion $f: D\subseteq \mathbb{R}\to\mathbb{R}$ heißt **differenzierbar im Punkt** $x_0\in D$ falls
 > $$\exists \lim_{\Delta x\to 0} \frac{f(x_0+\Delta x) - f(x_0)}{\Delta x} = c \in \mathbb{R}$$
 > 
-> > [!DANGER] Definition: Ableitung
+> > [!DEFINITION] Definition: Ableitung
 > > Man nennt $c$ die **Ableitung** von $f$ an der Stelle $x_0$.
 > > > [!NOTE] Bezeichnung
 > > > $$f'(x_0) = \frac{df}{dx}(x_0) = c$$
 > >
 >
 > Eine Funktion $f: D\subseteq \mathbb{R}\to\mathbb{R}$ heißt **differenzierbar auf** $D$, falls $f$ in allen $x \in D$ differenzierbar ist.
-> > [!DANGER] Definition: Ableitungsfunktion
+> > [!DEFINITION] Definition: Ableitungsfunktion
 > > Die **Ableitungsfunktion** $f': D \to \mathbb{R}$ ist diejenige Funktion, die jedem $x_0\in D$ die Ableitung von $f$ in $x_0$ zuordnet.
 > > > [!NOTE] Bezeichnung
 > > > $$f': D \to \mathbb{R}$$

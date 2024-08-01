@@ -3,7 +3,7 @@ Related:
 - "[[Stetigkeit]]"
 ---
 
-> [!IMPORTANT]+ Satz: Existenz von Minimum und Maximum
+> [!THEOREM]+ Satz: Existenz von Minimum und Maximum
 > Für jede stetige Funktion $f: [a; b] \subseteq\mathbb{R}\to\mathbb{R}$ gibt es $x_{\text{min}},x_{\text{max}}\in[a;b]$ mit
 > $$f(x_{\text{min}})\le f(x) \le f(x_{\text{max}}) \,\,\, \forall x\in [a;b]$$
 > 

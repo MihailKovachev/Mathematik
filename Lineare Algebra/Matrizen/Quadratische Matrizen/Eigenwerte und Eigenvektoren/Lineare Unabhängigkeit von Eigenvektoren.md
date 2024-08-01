@@ -1,8 +1,8 @@
-> [!IMPORTANT] Satz: Lineare Unabhängigkeit von Eigenvektoren
+> [!THEOREM] Satz: Lineare Unabhängigkeit von Eigenvektoren
 > Sind $\vec{e}_1,\cdots,\vec{e}_r\in K^n$ [Eigenvektoren](Eigenvektor.md) zu jeweils den verschiedenen [Eigenwerten](Eigenwert.md) $\lambda_1,\cdots,\lambda_r$ einer [quadratischen Matrix](../Quadratische%20Matrix.md) $M\in K^{n\times n}$, so sind $\vec{e}_1,\cdots,\vec{e}_r$ linear unabhängig.
 > 
 > Das heißt, [Eigenvektoren](Eigenvektor.md) aus verschiedenen [Eigenräumen](Eigenraum.md) einer [Matrix](../Quadratische%20Matrix.md) sind [linear unabhängig](../../../Abstrakte%20lineare%20Algebra/Lineare%20Unabhängigkeit.md).
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Eine kleine Bemerkung - die [Anzahl der verschiedenen Eigenwerte](Anzahl%20der%20Eigenwerte.md) von $M\in K^{n\times n}$ ist höchstens $n$, weshalb $r\le n$ gilt.
 > > 
 > > Der Beweis ist per Induktion.

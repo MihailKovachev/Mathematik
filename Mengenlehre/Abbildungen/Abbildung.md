@@ -1,12 +1,12 @@
-> [!DANGER] Definition: Abbildung
+> [!DEFINITION] Definition: Abbildung
 > Eine **Abbildung** $f: D \to W$ von der [Menge](../Menge.md) $D$ in die [Menge](../Menge.md) $W$ ist eine [rechtseindeutige](../Relationen/Rechtseindeutigkeit.md) [zweistellige Relation](../Relationen/Zweistellige%20Relation.md) $f\subseteq D\times W$.
 > > [!QUOTE] Erklärung zur Definition 
 > > Die Abbildung $f$ ist eine Vorschrift, die zu jedem $x \in D$ genau ein Element $f(x) \in W$ zuordnet.
 > 
-> > [!DANGER] Definition: Definitionsbereich
+> > [!DEFINITION] Definition: Definitionsbereich
 > > Den [Definitionsbereich](../Relationen/Zweistellige%20Relation.md) der Relation $f$ nennt man auch **Definitionsbereich der Abbildung** $f$.
 > 
-> > [!DANGER] Definition: Wertebereich der Abbildung
+> > [!DEFINITION] Definition: Wertebereich der Abbildung
 > > Die Menge $W$ heißt **Wertebereich der Abbildung** $f$.
 > > 
 > > > [!WARNING] Warnung 
@@ -15,7 +15,7 @@
 > > > [!NOTE] Notiz
 > > > Es sei denn anders verabredet, meint man genau diesen "Wertebereich der Abbildung", wenn man "Wertebereich von $f$" sagt.
 >
-> > [!DANGER] Definition: Bild
+> > [!DEFINITION] Definition: Bild
 > > Die Menge $f(D) \overset{\text{def}}{=} \{f(x) | x \in D\}$ heißt **Bild** von $f$.
 > > 
 > > > [!QUOTE] Erklärung zur Definition 
@@ -26,6 +26,6 @@
 > >
 > 
 
-> [!DANGER] Definition: Graph einer Abbildung
+> [!DEFINITION] Definition: Graph einer Abbildung
 > Unter dem **Graphen** einer Abbildung $f: D \to W$ versteht man die Menge aller [geordneten Paare](../Geordnetes%20Paar.md) der Form $(x,f(x))$:
 > $$G(f) \overset{\text{def}}{=}\{(x, f(x)) \mid x \in D \}$$

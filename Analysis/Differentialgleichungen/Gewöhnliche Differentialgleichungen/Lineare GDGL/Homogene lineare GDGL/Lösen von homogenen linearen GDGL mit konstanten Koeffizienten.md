@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Lösen von homogenen linearen GDGL mit konstanten Koeffizienten
+> [!ALGORITHM] Algorithmus: Lösen von homogenen linearen GDGL mit konstanten Koeffizienten
 > Wir betrachten die [homogene lineare GDGL mit konstanten Koeffizienten](Homogene%20lineare%20GDGL%20mit%20konstanten%20Koeffizienten.md)
 > $$a_n y^{(n)}(x) + a_{n-1} y^{(n-1)}(x) + \cdots + a_1 y'(x) + a_0 y(x) = 0$$
 > 

@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Berechnung der Determinante
+> [!ALGORITHM] Algorithmus: Berechnung der Determinante
 > Um die [Determinante](Determinante.md) einer [quadratischen Matrix](../Matrix.md) $A\in K^{n\times n}$ zu berechnen, 
 > 1. Multipliziere den ersten Eintrag der ersten Zeile $a_{11}$ mit der Determinante Matrix $A_{11}$, also derjenigen Matrix, die man erhält, indem man die erste Zeile und die erste Spalte loswird und den Rest der Spalten zusammen bringt. 
 > 2. Wiederhole denselben Vorgang mit dem Rest der Einträge in der ersten Zeile, aber alterniere dabei das Vorzeichen vor jedem Eintrag. Also, multipliziere den $j$-ten Eintrag der ersten Zeile $a_{1j}$ mit der Determinante der Matrix $A_{1j}$, also derjenigen Matrix, die man erhält, indem man die erste Zeile und die $j$-te Spalte loswird und den Rest der Spalten zusammen bringt. Falls $1+j$ nicht eben ist, stelle ein Minus voran.
@@ -46,17 +46,17 @@
 > > Nun sehen wir, dass alle Determinanten der $3 \times 3$-Untermatrizen null sind. Also ist die Determinante der $4 \times 4$-Matrix:
 > > $$\det(A) = 1 \cdot 0 - 2 \cdot 0 + 3 \cdot 0 - 4 \cdot 0 = 0$$
 
-> [!IMPORTANT] Satz: Determinante von $2\times 2$-Matrizen
+> [!THEOREM] Satz: Determinante von $2\times 2$-Matrizen
 > Für jede $2\times 2$-[Matrix](../Matrix.md) $A = \begin{bmatrix}a & b \\ c & d\end{bmatrix}$ gilt
 > $$\det (A) = ad - bc$$
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Laut definition
 > > $$\left|\begin{matrix}a & b \\ c & d\end{matrix}\right| = a\det(\begin{bmatrix}d\end{bmatrix}) - b\det(\begin{bmatrix}c\end{bmatrix}) = ad - bc$$
 
-> [!IMPORTANT] Satz: Determinante von $3\times 3$-Matrizen
+> [!THEOREM] Satz: Determinante von $3\times 3$-Matrizen
 > Für jede $3\times 3$-[Matrix](../Matrix.md) $A = \begin{bmatrix}a & b & c \\ d & e & f \\ g & h & i\end{bmatrix}$ gilt
 > $$\left|\begin{matrix}a & b & c \\ d & e & f \\ g & h & i\end{matrix}\right| = a(ei - fh) - b(di - fg) + c(dh - ge)$$
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Laut Definition
 > > $$\left|\begin{matrix}a & b & c \\ d & e & f \\ g & h & i\end{matrix}\right| = a\left|\begin{matrix}e & f \\ h & i\end{matrix}\right| - b \left|\begin{matrix}d & f \\ g & i\end{matrix}\right| + c \left|\begin{matrix}d & e \\ g & h\end{matrix}\right|$$
 > > Die $2\times 2$-Determinanten lassen sich durch die entsprechende Regel berechnen.

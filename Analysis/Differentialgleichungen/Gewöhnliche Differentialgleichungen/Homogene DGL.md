@@ -1,8 +1,8 @@
-> [!DANGER] Definition: Homogene DGL
+> [!DEFINITION] Definition: Homogene DGL
 > Eine **homogene Differentialgleichung** ist eine [gewöhnliche Differentialgleichung](Gewöhnliche%20Differentialgleichung.md) der Form
 > $$y'(x) = f\left(\frac{y(x)}{x}\right)$$
 
-> [!TODO] Algorithmus: Lösen einer homogenen Differentialgleichung
+> [!ALGORITHM] Algorithmus: Lösen einer homogenen Differentialgleichung
 > Wir lösen die [homogene Differentialgleichung](Homogene%20DGL.md)
 > $$y'(x) = f\left(\frac{y(x)}{x}\right)$$
 > 1. Setze $z(x) = \frac{y(x)}{x}$

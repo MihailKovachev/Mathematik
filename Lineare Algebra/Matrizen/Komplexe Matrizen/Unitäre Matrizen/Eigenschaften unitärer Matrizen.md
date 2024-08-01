@@ -1,1 +1,1 @@
-> [!IMPORTANT] Satz
+> [!THEOREM] Satz

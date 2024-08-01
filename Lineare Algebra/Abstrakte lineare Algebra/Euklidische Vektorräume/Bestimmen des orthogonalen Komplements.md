@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Bestimmen des orthogonalen Komplements
+> [!ALGORITHM] Algorithmus: Bestimmen des orthogonalen Komplements
 > Sei $U$ ein [Unterraum](../Unterraum.md) des [euklidischen Vektorraums](Abstraktes%20inneres%20Produkt.md) $V$ mit $\dim(V) = n$ und $\dim(U) = r$. Um das [orthogonale Komplement](Orthogonales%20Komplement.md) $U^\perp$ zu bestimmen,
 > 1. Bestimme eine Basis $B_{U}=\{\mathbf{b}_1,\cdots,\mathbf{b}_r\}$ von $U$.
 > 2. Bestimme $n-r$ [linear unabhängige](../Lineare%20Unabhängigkeit.md) Vektoren $\mathbf{b}_1^\perp,\cdots,\mathbf{b}_{n-r}^\perp$, von denen jeder zu allen $\mathbf{b}_1,\cdots,\mathbf{b}_r$ [orthogonal](Orthogonalität.md) ist.

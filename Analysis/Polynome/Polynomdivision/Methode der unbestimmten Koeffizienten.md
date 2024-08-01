@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Methode der unbestimmten Koeffizienten
+> [!ALGORITHM] Algorithmus: Methode der unbestimmten Koeffizienten
 > Wir haben zwei [Polynome](../Polynom.md) $A(x)$ und $B(x)$ mit $\deg (A) = n$ und $\deg (B) = m \le n$ und möchten $A(x)$ durch $B(x)$ [dividieren](../Polynom.md). Das heißt, wir wollen die zwei Polynome $Q(x)$ und $R(x)$ mit $\deg(Q) = n - m$ und $\deg(R) \lt m$ finden, so dass
 > $$A(x) = B(x)Q(x) + R(x)$$
 > 1. Wir wissen, dass $\deg (Q) = n-m$ ist, also können wir $Q(x)$ in folgender Weise aufschreiben:

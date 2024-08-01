@@ -1,4 +1,4 @@
-> [!IMPORTANT] Geometrische Addition
+> [!THEOREM] Geometrische Addition
 > Um zwei Vektoren $\vec{u},\vec{v}\in\mathbb{R}^3$ geometrisch zu [addieren](../../Matrizen/Matrizenoperationen/Addition.md) braucht man nur den Anfang eines der Vektoren ans Ende des anderen anzuschließen.
 > ![](Resources/Vektoraddition.png)
 > > [!NOTE] Notiz: Substrahieren

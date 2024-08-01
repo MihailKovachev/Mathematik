@@ -1,7 +1,7 @@
-> [!TODO] Algorithmus: Basiswechsel
+> [!ALGORITHM] Algorithmus: Basiswechsel
 > Wir haben den [Koordinatenvektor](Koordinatenvektor.md) ${}_{B}\mathbf{v}$ eines [Vektors](../Abstrakter%20Vektorraum.md) $\mathbf{v}$ bezüglich der [Basis](Basis.md) $B = (\mathbf{b}_1,\cdots,\mathbf{b}_n)$ und möchten den Koordinatenvektor ${}_{B'}\mathbf{v}$ von $\mathbf{v}$ bezüglich der Basis $B' = (\mathbf{b}_1',\cdots,\mathbf{b}_n')$ bestimmen.
 > 
-> > [!IMPORTANT] Satz
+> > [!THEOREM] Satz
 > > An den Basiswechsel kann man als die [lineare Transformation](../Lineare%20Transformationen/Lineare%20Transformation.md) $T: V \to V$ denken, die einfach nichts tut:
 > > $$T(\mathbf{v}) = \mathbf{v}$$
 > > Die [Matrizendarstellung](../Lineare%20Transformationen/Matrizendarstellung.md) ${}_{B'}[I_n]_B$ können wir aber so bestimmen, das sie Koordinatenvektoren bezüglich $B$ in Koordinatenvektoren bezüglich $B'$ verwandelt.

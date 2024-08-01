@@ -1,6 +1,6 @@
-> [!IMPORTANT] Satz: Anzahl der Nullstellen
+> [!THEOREM] Satz: Anzahl der Nullstellen
 > Jedes [Polynom](../Polynom.md) $A(x)$ von Grad $n \ge 1$ hat höchstens $n$ verschiedene [Nullstelle](Nullstelle.md).
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Angenommen, $A(x)$ hätte $n+1$ verschiedene Nullstellen $p_1,\cdots,p_n,p_{n+1}$. Dann lässt sich $A(x)$ folgendermaßen darstellen.
 > > $$A(x) = (x-p_1)A_1(x)$$
 > > Die Zahl $p_2$ ist auch eine Nullstelle von $A(x)$ und daher gilt

@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Spektralzerlegung
+> [!DEFINITION] Definition: Spektralzerlegung
 > Die **Spektralzerlegung** einer [diagonalisierbaren](Spektralzerlegung/Diagonalisierbarkeit.md) [Matrix](../../Quadratische%20Matrix.md) $M$ nennt man die [Matrizenmultiplikation](../../../Matrizenoperationen/Multiplikation%20von%20Matrizen.md)
 > $$M = Q \Lambda Q^{-1},$$
 > wobei $\Lambda$ die [Diagonalform](Spektralzerlegung/Diagonalisierbarkeit.md) von $M$ und $Q$ eine $M$ [diagonalisierende Matrix](Spektralzerlegung/Diagonalisierbarkeit.md) ist.

@@ -1,9 +1,9 @@
-> [!DANGER] Definition: Konvergenz
-> Eine [Reihe](../Reihe.md) $\displaystyle \sum_{k=1}^\infty a_k$ heißt **konvergent** $L \in \mathbb{R}$, falls die Folge $\left(\displaystyle\sum_{k=1}^n a_k\right)_{n\in\mathbb{N}}$ der Partialsummen von $(a_k)_{k\in\mathbb{N}}$ gegen $L$ konvergiert.
+> [!DEFINITION] Definition: Konvergenz
+> Eine [Reihe](../Reihe.md) $\displaystyle \sum_{k=1}^\infty a_k$ heißt **konvergent** gegen $L$, falls sie eine gegen $L$ [konvergente](../../Folgen/Grenzwerte/Konvergenz/Konvergenz.md) [Folge](../../Folgen/Folge.md) ist.
 > 
 > Man nennt $L$ den **Wert** der Reihe.
 > > [!NOTE] Bezeichnung
 > > $$\displaystyle \sum_{k=1}^\infty a_k = L$$
 
-> [!DANGER] Definition: Divergenz
+> [!DEFINITION] Definition: Divergenz
 > Eine Reihe heißt **divergent**, falls sie nicht konvergent ist.

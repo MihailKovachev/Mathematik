@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Körper
+> [!DEFINITION] Definition: Körper
 > Ein **Körper** ist eine [Menge](../Menge.md) $K$, die mit einer **Addition** $+: K \times K \to K$ und  einer **Multiplikation** $\cdot: K \times K \to K$ ausgerüstet ist, die die folgenden Eigenschaften besitzen.
 > 
 > Gesetze der Addition:

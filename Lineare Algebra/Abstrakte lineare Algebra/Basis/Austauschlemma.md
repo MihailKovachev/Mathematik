@@ -1,11 +1,11 @@
-> [!IMPORTANT] Satz: Austauschlemma
+> [!THEOREM] Satz: Austauschlemma
 > Sei $B$ eine [Basis](Basis.md) eines [endlich erzeugbaren](../Erzeugendensystem.md) [Vektorraums](../Abstrakter%20Vektorraum.md) $(V,K,+,\cdot)$. Zu jedem $\mathbf{u}\ne \mathbf{0}$ aus $V$ gibt es einen Vektor $\mathbf{v}\in B$ derart, dass $B\setminus \{\mathbf{v}\}\cup \{\mathbf{u}\}$ eine Basis von $(V, K,+,\cdot)$ ist.
 > 
 > Wir können also jedes $\mathbf{u}\in V$ mit einem Vektor aus $B$ austauschen und noch eine Basis erhalten.
 > > [!NOTE] Wahl des Vektors aus der Basis
 > > Als Vektor zu ersetzen kann jeder Vektor $\mathbf{v}\in B$ gewählt werden, vor dem ein Koeffizient $k\ne 0$ in der Basisdarstellung von $\mathbf{u}$ steht.
 > 
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Da $B$ ein Erzeugendensystem ist, gibt es Vektoren $\mathbf{v}_1,\cdots,\mathbf{v}_n\in V$ mit
 > > $$\mathbf{u} = k_1\mathbf{v}_1+\cdots+k_n\mathbf{v}_n$$
 > > Aus $\mathbf{u}\ne \mathbf{0}$ folgt, dass mindestens ein $k_j \ne 0$ ist. Wir nennen den dazugehörigen Vektor $\mathbf{v}_j$ und definieren

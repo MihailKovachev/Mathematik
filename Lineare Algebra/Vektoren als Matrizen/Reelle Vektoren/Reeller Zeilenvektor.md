@@ -1,0 +1,2 @@
+> [!DEFINITION] Definition: Komplexer Zeilenvektor
+> Ein **reeller Zeilenvektor** ist ein [Zeilenvektor](../Zeilenvektor.md) $\vec{v}\in\mathbb{R}^{1\times n}$, dessen Koeffizienten reelle Zahlen sind.

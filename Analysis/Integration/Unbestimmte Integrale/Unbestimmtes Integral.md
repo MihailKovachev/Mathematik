@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Unbestimmtes Integral
+> [!DEFINITION] Definition: Unbestimmtes Integral
 > Das **unbestimmte Integral** einer [Funktion](../../Funktionen/Funktion.md) ist die [Menge](../../../Mengenlehre/Menge.md) aller [Stammfunktionen](Unbestimmte%20Integrale/Stammfunktion.md) von $f$.
 > $$\int f(x) \mathop{\mathrm{d}x} \overset{\text{def}}{=} \{F \mid F' = f\}$$
 > > [!NOTE] Schreibweise 

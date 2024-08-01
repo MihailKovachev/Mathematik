@@ -1,3 +1,3 @@
-> [!IMPORTANT] Satz: Lösen durch Invertieren
+> [!THEOREM] Satz: Lösen durch Invertieren
 > Jedes [lineare Gleichungssystem](Lineares%20Gleichungssystem.md) in [Matrixform](Matrixform%20von%20LGS.md) kann gelöst werden, indem man die Matrixgleichung von links mit dem [Inversen](../../Matrizen/Invertieren/Invertierbarkeit.md) $A^{-1}$ der [Koeffizientenmatrix](Koeffizientenmatrix.md) $A$ multipliziert:
 > $$A\vec{x}=\vec{b}\implies \vec{x} = A^{-1}\vec{b}$$

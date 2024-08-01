@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Invertieren einer Matrix
+> [!ALGORITHM] Algorithmus: Invertieren einer Matrix
 > Sei $A\in K^{n\times n}$ eine [invertierbare](Invertierbarkeit.md) [Matrix](../Matrix.md). Um das Inverse $A^{-1}$ zu finden:
 > 1. Notiere die [erweiterte Koeffizientenmatrix](../../Lineare%20Gleichungssysteme/Koeffizientenmatrix.md) $[A\mid I_n]$, wo $I_n$ die $n\times n$-[Identitätsmatrix](../Matrix.md) ist.
 > 2. Führe [das Gauß-sche Eliminationsverfahren](../../Lineare%20Gleichungssysteme/Lösen%20von%20LGS/Das%20Gauß-sche%20Eliminationsverfahren.md) durch, bis auf der linken Seite der erweiterten Koeffizientenmatrix $[A\mid I_n]$ die Identitätsmatrix $I_n$ erscheint.
@@ -14,15 +14,15 @@
 > > Nach dem [Satz der Invertierbarkeit](Satz%20der%20Invertierbarkeit.md) ist $A$ invertierbar, denn auf der linken Seite gibt es keine Nullzeilen. Die rechte Seite ist dann $A^{-1}$.
 > > $$A^{-1} = \begin{bmatrix}1 & -2 & 3 \\ -1 & 3 & -6 \\ 1 & -4 & 10\end{bmatrix}$$
 
-> [!IMPORTANT] Satz: Invertieren einer $2\times 2$-Matrix
+> [!THEOREM] Satz: Invertieren einer $2\times 2$-Matrix
 > Eine Matrix $A = \begin{bmatrix}a & b \\ c & d\end{bmatrix}$ ist genau dann invertierbar, wenn
 > $$ad - bc = 0$$
 > 
 > Falls $A = \begin{bmatrix}a & b \\ c & d\end{bmatrix}$ invertierbar ist, gilt
 > $$A^{-1} = \frac{1}{ad-bc}\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}$$
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > TODO
 
-> [!IMPORTANT] Satz: Invertieren von Diagonalmatrizen
+> [!THEOREM] Satz: Invertieren von Diagonalmatrizen
 > Für jede Diagonalmatrix $D = \operatorname{diag}(\lambda_1, \cdots,\lambda_n)$ gilt $D^{-1} = \operatorname{diag}(\lambda_1^{-1}, \cdots,\lambda_n^{-1})$.
 > $$\begin{bmatrix}\lambda_1 & \cdots & 0 \\ \vdots & \ddots & \vdots \\ 0 & \cdots & \lambda_n\end{bmatrix}^{-1} = \begin{bmatrix}\displaystyle\frac{1}{\lambda_1} & \cdots & 0 \\ \vdots & \ddots & \vdots \\ 0 & \cdots & \displaystyle\frac{1}{\lambda_n}\end{bmatrix}$$

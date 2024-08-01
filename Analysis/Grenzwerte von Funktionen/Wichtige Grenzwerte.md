@@ -3,7 +3,7 @@ Related:
   - "[[Grenzwerte|Grenzwerte]]"
 ---
 
-> [!IMPORTANT] Satz: Wichtige Grenzwerte
+> [!THEOREM] Satz: Wichtige Grenzwerte
 > $$\lim_{x\to \pm\infty} c = c, c = \text{const}$$
 > 
 > $$\lim_{x\to \pm \infty} \frac{1}{x^n} = 0, n\in\mathbb{N}$$

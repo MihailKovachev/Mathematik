@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Das Gauß-sche Eliminationsverfahren
+> [!ALGORITHM] Algorithmus: Das Gauß-sche Eliminationsverfahren
 > Das Gauß-sche Eliminationsverfahren ist ein Verfahren, anhand dessen wir die Lösungsmenge eines LGS erhalten können:
 > 1. Notiere die erweiterte Koeffizientenmatrix $(A\mid\vec{b})$.
 > 2. Bringe die erweiterte Koeffizientenmatrix $(A\mid\vec{b})$ mit elementaren Zeilenumformungen auf [reduzierte Zeilenstufenform](../../Matrizen/Zeilenstufenform/Zeilenstufenform.md).

@@ -1,6 +1,6 @@
-> [!DANGER] Definition: Hermetisches Transponieren
+> [!DEFINITION] Definition: Hermetisches Transponieren
 > Zu jeder [komplexen](../../../Komplexe%20Zahlen/Komplexe%20Zahlen.md) [Matrix](../Matrix.md) $A = (a_{ij})\in\mathbb{C}^{m\times n}$ bezeichnet $A^\dagger = (\overline{a_{ji}})\in\mathbb{C}^{n\times m}$ die zu $A$ **hermetisch transponierte** Matrix.
-> > [!DANGER] Definition: Adjungierte Matrix
+> > [!DEFINITION] Definition: Adjungierte Matrix
 > > Die Matrix $A^\dagger$ ist auch als die **adjungierte Matrix** von $A$ bekannt.
 >
 > > [!QUOTE] Erklärung zur Definition

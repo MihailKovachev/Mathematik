@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Das Horner-Schema
+> [!ALGORITHM] Algorithmus: Das Horner-Schema
 > Das Horner-Schema ist ein Algorithmus, mit dem man leicht ein [Polynom](../Polynom.md) $A(x)$ durch ein Polynom $B(x)$ von Grad eins [dividieren](Polynomdivision.md) kann.
 > 
 > Jedes Polynom $B(x)$ von Grad eins kann man als $B(x) = x - p$ schreiben und da $\deg(B) = 1$ ist, muss der Rest $R$ einfach eine Zahl sein, denn $\deg (R) \lt \deg(B) \implies \deg (R) = 0$. Dann haben wir

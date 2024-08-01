@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Gruppe
+> [!DEFINITION] Definition: Gruppe
 > Eine **Gruppe** $(G; \cdot)$ ist eine [Menge](../../Menge.md) $G$, die mit einer Verknüpfung $\cdot: G\times G\to G$ ausgerüstet ist, die folgende Eigenschaften besitzt.
 > - Assoziativität: $(g\cdot h)\cdot k = g\cdot (h\cdot k) \qquad \forall g,h,k\in G$
 > - Existenz eines **neutralen Elements**: Es gibt ein $1 \in G$ mit $1\cdot g = g \qquad \forall g\in G$

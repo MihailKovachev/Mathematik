@@ -1,8 +1,8 @@
-> [!IMPORTANT] Geometrisches Skalarprodukt
-> Für das [Komplexes Skalarprodukt](../../Vektoren%20als%20Matrizen/Komplexe%20Vektoren/Komplexes%20Skalarprodukt.md) $\vec{u}^\mathsf{T}\cdot\vec{v}$ zweier Vektoren $\vec{u},\vec{v}\in\mathbb{R}^3$ gilt
+> [!THEOREM] Geometrisches Skalarprodukt
+> Für das [kanonische Skalarprodukt](../../Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reelles%20Skalarprodukt.md) $\vec{u}^\mathsf{T}\cdot\vec{v}$ zweier [reeller Vektoren](../../Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reeller%20Spaltenvektor.md) $\vec{u},\vec{v}\in\mathbb{R}^3$ gilt
 > $$\vec{u}^\mathsf{T}\cdot\vec{v} = ||\vec{u}||||\vec{v}||\cos\angle(\vec{u};\vec{v})$$
 > ![](Resources/Skalarprodukt.png)
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Nach dem Kosinussatz gilt
 > > $$\cos\angle(\vec{u};\vec{v}) = \frac{||\vec{u}||^2+||\vec{v}||^2-||\vec{u}-\vec{v}||^2}{2||\vec{u}||||\vec{v}||}$$
 > > Also

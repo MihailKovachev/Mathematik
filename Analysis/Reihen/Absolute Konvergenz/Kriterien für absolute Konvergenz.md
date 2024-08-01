@@ -1,4 +1,4 @@
-> [!IMPORTANT] Satz: Quotientenkriterium
+> [!THEOREM] Satz: Quotientenkriterium
 > Die [Reihe](../Reihe.md) $\displaystyle \sum_{k=1}^\infty a_k$ ist:
 > - [absolut konvergent](Absolute%20Konvergenz.md), falls
 > $$\exists\lim_{k\to\infty} \left|\frac{a_{k+1}}{a_k}\right| \lt 1$$
@@ -10,7 +10,7 @@
 > > [!NOTE]
 > > Wenn $\displaystyle \lim_{k\to\infty} \left|\frac{a_{k+1}}{a_k}\right| = 1$,  lässt sich durch dieses Kriterium nicht bestimmen, ob die Reihe (absolut) konvergiert oder divergiert.
 
-> [!IMPORTANT] Satz: Wurzelkriterium
+> [!THEOREM] Satz: Wurzelkriterium
 > Die Reihe $\displaystyle \sum_{k=1}^\infty a_k$ ist:
 > - absolut konvergent, falls
 > 
@@ -23,7 +23,7 @@
 > > [!NOTE]
 > > Wenn $\displaystyle \lim_{k\to\infty} \sqrt[k]{a_k} = 1$,  lässt sich durch dieses Kriterium nicht bestimmen, ob die Reihe (absolut) konvergiert oder divergiert.
 
-> [!IMPORTANT] Satz: Majorantentkriterium
+> [!THEOREM] Satz: Majorantentkriterium
 > Die Reihe $\displaystyle \sum_{k=1}^\infty a_k$ konvergiert absolut, wenn es eine konvergente Reihe $\displaystyle \sum_{k=1}^\infty b_k$ gibt, sodass
 > $$|a_k| \le b_k \,\, \forall k\ge N \in\mathbb{N}$$
 > 

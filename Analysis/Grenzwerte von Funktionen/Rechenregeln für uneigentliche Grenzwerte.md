@@ -4,7 +4,7 @@ Related:
   - "[[Uneigentliche Grenzwerte]]"
 ---
 
-> [!IMPORTANT] Satz: Rechenregeln für uneigentliche Grenzwerte
+> [!THEOREM] Satz: Rechenregeln für uneigentliche Grenzwerte
 > 
 > ||$\displaystyle \lim_{x\to c} f(x) = L \lt 0$|$\displaystyle \lim_{x\to c} f(x) = L \gt 0$|
 > |:--:|:--:|:--:|

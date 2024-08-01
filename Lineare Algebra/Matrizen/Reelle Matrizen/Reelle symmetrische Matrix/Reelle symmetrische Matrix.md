@@ -1,0 +1,1 @@
+>[!DEFINITION] Definition: [Reelle](../Reelle%20Matrix.md) [Symmetrische Matrix](../../Quadratische%20Matrizen/Symmetrische%20Matrix.md)

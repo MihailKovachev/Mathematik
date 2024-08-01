@@ -1,6 +1,6 @@
-> [!IMPORTANT] Satz: Lokales Extremum $\implies$ kritische Stelle
+> [!THEOREM] Satz: Lokales Extremum $\implies$ kritische Stelle
 > Jede Stelle eines [lokalen Extremums](../../Funktionen/Extrema/Lokale%20Extrema.md) ist auch eine kritische Stelle.
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Sei $f$ eine Funktion mit einem lokalen Extremum im Punkt $x_0$. Wenn $f$ in $x_0$ nicht differenzierbar ist, dann sind wir fertig - $x_0$ ist nach Definition eine kritische Stelle.
 > > 
 > > Wenn aber $f$ im Punkt $x_0$ differenzierbar ist, müssen wir zeigen, dass $f'(x_0)=0$. Es gilt dann
@@ -15,7 +15,7 @@
 > > 
 > > Ein analogischer Vorgang lässt sich ausführen, um dasselbe für ein lokales Minimum zu beweisen.
 
-> [!IMPORTANT] Satz: Kriterium der zweiten Ableitung
+> [!THEOREM] Satz: Kriterium der zweiten Ableitung
 > Sei $f: D \to\mathbb{R}$ eine [stetige](../../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) [Funktion](../../Funktionen/Funktion.md).
 > 
 > Eine [kritische Stelle](Kritische%20Stellen.md) $x_0$ der Funktion $f$ ist Stelle eines [lokalen Minimums](../../Funktionen/Extrema/Lokale%20Extrema.md), wenn $f''(x_0) \gt 0$.
@@ -25,9 +25,9 @@
 > > [!WARNING] Warnung
 > > Im Falle, dass $f''(x_0) = 0$, ist keine Aussage möglich.
 > 
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 
-> [!IMPORTANT] Satz: Kriterium des Vorzeichenwechels
+> [!THEOREM] Satz: Kriterium des Vorzeichenwechels
 > Sei $f: D \to \mathbb{R}$ eine stetige Funktion.
 > 
 > Eine kritische Stelle $x_0$ der Funktion $f$ ist Stelle eines lokalen Minimums, wenn ein $\varepsilon \gt 0$ existiert mit
@@ -35,9 +35,9 @@
 > 
 > Eine kritische Stelle $x_0$ der Funktion $f$ ist Stelle eines lokalen Maximums, wenn ein $\varepsilon \gt 0$ existiert mit
 > $$f'(x) \gt 0 \quad \forall x \in (x_0-\varepsilon; x_0)\qquad \text{und} \qquad f'(x) \lt 0 \quad \forall x\in (x_0; x_0+\varepsilon)$$
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 
-> [!TODO] Algorithmus: Bestimmen der Extremstellen einer Funktion
+> [!ALGORITHM] Algorithmus: Bestimmen der Extremstellen einer Funktion
 > Voraussetzungen: Die Funktion $f: D \subseteq \mathbb{R} \to \mathbb{R}$ ist stetig.
 > 1. Bestimme die kritischen Stellen von $f$, also alle $x_0, x_1,\cdots, x_n \in D$, wo $f'$ eine Nullstelle hat oder nicht existiert.
 > 2. Überprüfe anhand der Kriterien, welche von $x_0, x_1,\cdots, x_n$ Stellen lokaler Extrema sind.

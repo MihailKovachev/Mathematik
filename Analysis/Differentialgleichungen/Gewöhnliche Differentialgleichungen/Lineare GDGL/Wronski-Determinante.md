@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Wronski-Determinante
+> [!DEFINITION] Definition: Wronski-Determinante
 > Die **Wronski-Determinante** der $(n-1)$-mal [differenzierbaren](../../../Differentiation/Ableitung%20und%20Differenzierbarkeit.md) [Funktionen](../../../Funktionen/Funktion.md) $f_1,\cdots,f_n: I\subseteq \mathbb{R}\to\mathbb{R}$ ist die [Determinante](../../../../Lineare%20Algebra/Matrizen/Determinanten/Determinante.md) der [Matrix](../../../../Lineare%20Algebra/Matrizen/Matrix.md), die die Funktion $f_i$ und ihre $n-1$ Ableitungen als die $i$-te Spalte hat.
 > $$W(f_1,\cdots,f_n) \overset{\text{def}}{=} \begin{vmatrix}f_1 & f_2 & \cdots & f_n \\ f_1' & f_2' & \cdots & f_n' \\ \vdots & \vdots & \vdots & \vdots \\ f_1^{(n-1)} & f_2^{(n-1)} & \cdots & f_n^{(n-1)}\end{vmatrix}$$
 > 

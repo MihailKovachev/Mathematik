@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Bestimmen einer Basisdarstellung
+> [!ALGORITHM] Algorithmus: Bestimmen einer Basisdarstellung
 > Wir möchten die [Basisdarstellung](../Abstrakte%20lineare%20Algebra/Basis/Basisdarstellung%20von%20Vektoren.md) eines [Vektors](Spaltenvektor.md) $\vec{v} = \begin{bmatrix}v_1 & \cdots & v_n\end{bmatrix}^\mathsf{T} \in K^n$ bezüglich einer geordneten [Basis](../Abstrakte%20lineare%20Algebra/Basis/Basis.md) $B = (\vec{b}_1,\cdots,\vec{b}_n)$ bestimmen. Wir suchen also nach den Koeffizienten des [Koordinatenvektors](../Abstrakte%20lineare%20Algebra/Basis/Koordinatenvektor.md) ${}_{B}\vec{v} = \begin{bmatrix}{}_B v_1 & \cdots & {}_B v_n\end{bmatrix}^\mathsf{T}$.
 > 
 > Laut Definition haben wir

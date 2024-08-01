@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Lösen von linearen GDGL erster Ordnung
+> [!ALGORITHM] Algorithmus: Lösen von linearen GDGL erster Ordnung
 > Wir betrachten die [lineare GDGL erster Ordnung](Lineare%20GDGL%20erster%20Ordnung.md)
 > $$\frac{\mathop{\mathrm{d}y}}{\mathop{\mathrm{d}x}}+p(x)y = g(x)$$
 > 1. Bestimme einen **Integrationsfaktor** $\mu(x)$, indem du die folgende Gleichung löst:
@@ -8,7 +8,7 @@
 > - Integriere beide Seiten;
 > $$\ln |\mu(x)| = \int p(x) \mathop{\mathrm{d}x} + k$$
 > - Die Konstante $k$ darf man hier beliebig wählen, denn die Gleichung $\mu'(x)=\mu(x)p(x)$ hängt nicht von ihr ab. Also setze $k=0$, um die einfachste $\mu(x)$ zu erhalten.
-> > [!IMPORTANT] Lösung für $\mu(x)$
+> > [!THEOREM] Lösung für $\mu(x)$
 > > $$\mu(x) = \mathrm{e}^{\int p(x) \mathop{\mathrm{d}x}}$$
 > 
 > 2. Multipliziere die ursprüngliche Differentialgleichung mit dem schon bestimmten Integrationsfaktor $\mu(x)$.
@@ -21,7 +21,7 @@
 > 4. Integriere beide Seiten
 > $$\mu(x)y = \int \mu(x)g(x)\mathop{\mathrm{d}x} \mathop{+} c$$
 > 5. Dividiere durch $\mu(x)$, um die Lösungen zu erhalten, wobei jedes $c\in\mathbb{R}$ eine Lösung ergibt.
-> > [!IMPORTANT] Lösung für $y(x)$
+> > [!THEOREM] Lösung für $y(x)$
 > $$y(x) = \frac{1}{\mu (x)}\left(\int \mu(x)g(x)\mathop{\mathrm{d}x} \mathop{+} c\right)$$
 > 
 > > [!EXAMPLE]- Beispiel

@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Lineare GDGL erster Ordnung
+> [!DEFINITION] Definition: Lineare GDGL erster Ordnung
 > Eine **lineare gewöhnliche Differentialgleichung 1. Ordnung** ist eine [lineare GDGL](Lineare%20GDGL.md) der Form
 > $$P(x)\frac{\mathop{\mathrm{d}y}}{\mathop{\mathrm{d}x}} + Q(x)y = G(x)$$
 > > [!NOTE] Reduzierung

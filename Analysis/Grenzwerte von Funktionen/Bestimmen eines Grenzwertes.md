@@ -2,7 +2,7 @@
 Related:
   - "[[Grenzwerte|Grenzwerte]]"
 ---
-> [!TODO] Algorithmus: Bestimmen eines Grenzwertes
+> [!ALGORITHM] Algorithmus: Bestimmen eines Grenzwertes
 > Wir versuchen
 > $$\lim_{x\to c} f(x)$$
 > zu bestimmen.

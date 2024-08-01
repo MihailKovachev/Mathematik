@@ -1,2 +1,2 @@
-> [!DANGER] Definition: Komplexer Zeilenvektor
+> [!DEFINITION] Definition: Komplexer Zeilenvektor
 > Ein **komplexer Zeilenvektor** ist ein [Zeilenvektor](../Zeilenvektor.md) $\vec{v}\in\mathbb{C}^{1\times n}$, dessen Koeffizienten [komplexe Zahlen](../../../Komplexe%20Zahlen/Komplexe%20Zahlen.md) sind.

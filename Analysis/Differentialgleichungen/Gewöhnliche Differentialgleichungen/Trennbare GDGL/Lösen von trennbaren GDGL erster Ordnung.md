@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Lösen von trennbaren GDGL erster Ordnung
+> [!ALGORITHM] Algorithmus: Lösen von trennbaren GDGL erster Ordnung
 > Wir betrachten die [Trennbare GDGL erster Ordnung](Trennbare%20GDGL%20erster%20Ordnung.md)
 > $$N(y)\frac{\mathop{\mathrm{d}y}}{\mathop{\mathrm{d}x}} = M(x)$$
 > 1. "Trenne" die Differenziale:

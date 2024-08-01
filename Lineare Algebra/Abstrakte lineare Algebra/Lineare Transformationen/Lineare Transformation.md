@@ -1,3 +1,3 @@
-> [!DANGER] Definition: Lineare Transformation
+> [!DEFINITION] Definition: Lineare Transformation
 > Eine **lineare Transformation** ist eine [Abbildung](../../../Mengenlehre/Abbildungen/Abbildung.md) $T: V\to W$ aus dem [Vektorraum](../Abstrakter%20Vektorraum.md) $(V, K,+,\cdot)$ in den Vektorraum $(W,K, +,\cdot)$ mit
 > $$f(\lambda\mathbf{u} + \mu\mathbf{v}) = \lambda f(\mathbf{u}) + \mu f(\mathbf{v}) \qquad \forall \lambda,\mu \in K, \forall\mathbf{u},\mathbf{v} \in V$$

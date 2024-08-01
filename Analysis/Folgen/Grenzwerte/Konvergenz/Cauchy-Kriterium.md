@@ -1,7 +1,7 @@
-> [!IMPORTANT] Satz: Cauchy-Kriterium
+> [!THEOREM] Satz: Cauchy-Kriterium
 > Eine reelle [Folge](../../Folge.md) ist genau dann [konvergent](Konvergenz.md), wenn es zu jedem $\varepsilon \gt 0$ ein $N \in \mathbb{N}$ derart gibt, dass
 > $$|a_n - a_m| \lt \varepsilon \qquad \forall m,n \ge N$$
-> > [!CHECK]- Beweis
+> > [!PROOF]- Beweis
 > > Wir müssen beide Richtungen beweisen.
 > > 
 > > Zunächst sei $(a_n)_{n\in\mathbb{N}}$ eine gegen $L$ konvergente reelle Folge. Dann existiert zu jedem $\frac{\varepsilon}{2} \gt 0$ ein $N \in \mathbb{N}$ derart, dass
@@ -24,5 +24,5 @@
 > > $$|a_n - L| = |a_n - a_{n_k} + a_{n_k} - L| \le |a_n-a_{n_k}| + |a_{n_k} - L| \lt \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon$$
 > > für alle $n\ge \max \{K, N\}$. Die ganze Folge ist also gegen $L$ konvergent.
 >
-> > [!DANGER] Definition: Cauchy-Folgen
+> > [!DEFINITION] Definition: Cauchy-Folgen
 > > Folgen, für die das obige erfüllt ist, nennt man **Cauchy-Folgen**.

@@ -1,11 +1,5 @@
----
-Related:
-  - "[[Partialsumme]]"
-  - "[[../Folgen/Folge|Folge]]"
----
-
-> [!DANGER] Definition: Reihe
-> Die Folge $(s_n)_{n\in\mathbb{N}}$ der [Partialsumme](Partialsumme.md) einer Folge $(a_k)_{k\in\mathbb{N}}$ nennt man **Reihe**.
+> [!DEFINITION] Definition: Reihe
+> Die [Folge](../Folgen/Folge.md) $(s_n)_{n\in\mathbb{N}}$ der [Partialsummen](Partialsumme.md) einer [Folge](../Folgen/Folge.md) $(a_k)_{k\in\mathbb{N}}$ nennt man **Reihe**.
 > > [!NOTE] Bezeichnung
 > > Oft werden Reihen folgendermaßen dargestellt:
 > > $$\sum_{k=1}^\infty a_k$$

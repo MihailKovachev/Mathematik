@@ -1,0 +1,2 @@
+> [!DEFINITION] Definition: Komplexer Spaltenvektor
+> Ein **reeller Spaltenvektor** ist ein [Spaltenvektor](../Spaltenvektor.md) $\vec{v}\in \mathbb{R}^{n\times 1}$, dessen Koeffizienten reelle Zahlen sind.

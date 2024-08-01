@@ -1,4 +1,4 @@
-> [!TODO] Algorithmus: Basiswechsel in $K^n$
+> [!ALGORITHM] Algorithmus: Basiswechsel in $K^n$
 > Wir betrachten den [Vektor](Spaltenvektor.md) $\vec{v}\in K^n$. 
 > 
 > Wir haben seinen [Koordinatenvektor](../Abstrakte%20lineare%20Algebra/Basis/Koordinatenvektor.md) ${}_B \vec{v}$ bezüglich der geordneten Basis $B = (\vec{b}_1,\cdots,\vec{b}_n)$ und möchten seine Darstellung ${}_{B'}\vec{v}$ bezüglich einer anderen Basis $B' = (\vec{b}_1',\cdots,\vec{b}_n')$ finden.

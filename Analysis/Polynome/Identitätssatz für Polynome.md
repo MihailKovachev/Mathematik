@@ -1,4 +1,4 @@
-> [!IMPORTANT] Satz: Identitätssatz für Polynome
+> [!THEOREM] Satz: Identitätssatz für Polynome
 > Zwei [Polynome](Polynom.md) $A(x), B(x) \in \mathbb{C}[x]$, jedes von Grad $\le n \in \mathbb{N}_0$, sind [gleich](Gleichheit%20von%20Polynomen.md), wenn ihre Werte an $n+1$ verschiedenen Stellen übereinstimmen.
-> > [!CHECK]- Beispiel
+> > [!PROOF]- Beispiel
 > > Betrachten wir die Differenz $C(x) \coloneqq A(x) - B(x)$. Wenn $A(x_0) = B(x_0)$ für ein $x_0$ ist, dann ist $C(x_0) = 0$. Nach Voraussetzung gibt es $n+1$ verschiedene Werte von $x_0$, für die das wahr ist, also hat $C(x)$ genau $n+1$ verschiedene Nullstellen. Das Polynom $C(x)$ ist aber die Differenz zwei Polynome von Grad $\le n$ und ist daher auch von Grad $\le n$. Das ist aber genau dann möglich, wenn $C(x)$ das Nullpolynom ist. Das heißt, $C(x) = A(x) - B(x)$ ist immer Null, also sind $A(x)$ und $B(x)$ gleich.

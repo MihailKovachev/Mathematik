@@ -4,13 +4,13 @@ Related:
   - "[[Konvergenz/Konvergenz|Konvergenz]]"
 ---
 
-> [!DANGER] Definition: Bestimmte Divergenz gegen Unendlich
+> [!DEFINITION] Definition: Bestimmte Divergenz gegen Unendlich
 > Eine reelle Folge $(a_n)_{n\in\mathbb{N}}$ heißt *bestimmt divergent gegen Unendlich*, falls es zu jedem $A \in \mathbb{R}$ ein $N \in \mathbb{N}$ gibt, so dass
 > $$a_n \gt A, \forall n \ge N$$
 > > [!NOTE] Bezeichnung
 > > $$\lim_{n\to\infty} a_n = \infty$$
 
-> [!DANGER] Definition: Bestimmte Divergenz gegen negativ Unendlich
+> [!DEFINITION] Definition: Bestimmte Divergenz gegen negativ Unendlich
 > Eine reelle Folge $(a_n)_{n\in\mathbb{N}}$ heißt *bestimmt divergent gegen negativ Unendlich*, falls es zu jedem $A \in \mathbb{R}$ ein $N \in \mathbb{N}$ gibt, so dass
 > $$a_n \lt A, \forall n \ge N$$
 > > [!NOTE] Bezeichnung

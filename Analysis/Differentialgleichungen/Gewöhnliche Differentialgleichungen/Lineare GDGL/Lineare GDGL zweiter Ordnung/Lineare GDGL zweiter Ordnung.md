@@ -1,4 +1,4 @@
-> [!DANGER] Definition: Lineare GDGL zweitwr Ordnung
+> [!DEFINITION] Definition: Lineare GDGL zweitwr Ordnung
 > Eine **lineare gewöhnliche Differentialgleichung zweiter Ordnung** ist eine [lineare GDGL](Lineare%20GDGL.md) der Form
 > $$M(x)y'' + P(x)y' + Q(x)y = G(x)$$
 > > [!NOTE] Reduzierung

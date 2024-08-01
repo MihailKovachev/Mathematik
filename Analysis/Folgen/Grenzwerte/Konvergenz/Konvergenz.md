@@ -3,7 +3,7 @@ Related:
 - "[[../../Folge|Folge]]"
 ---
 
-> [!DANGER] Definition: Folgenkonvergenz
+> [!DEFINITION] Definition: Folgenkonvergenz
 > Eine komplexe Folge $(a_n)_{n\in\mathbb{N}}$ heißt *konvergent gegen* $L$, falls für jedes $\varepsilon \gt 0$ ein $N \in \mathbb{N}$ (das von $\varepsilon$ abhängt) existiert, so dass 
 > $$|a_n - L|\lt \varepsilon$$
 > für alle $n \ge N$.
