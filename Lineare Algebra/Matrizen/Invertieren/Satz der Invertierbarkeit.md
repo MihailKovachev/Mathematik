@@ -2,7 +2,7 @@
 > Für jede [quadratische Matrix](../Quadratische%20Matrizen/Quadratische%20Matrix.md) $M\in K^{n\times n}$ sind die fokgenden Aussagen äquivalent.
 > - $M$ ist [invertierbar](Invertierbarkeit.md).
 > - Das [Transponierte](../Matrizenoperationen/Transponieren.md) von $M$ ist invertierbar.
-> - Die [Determinante](../Determinanten/Determinante.md) von $M$ ist nicht Null, also $\det (M) \ne 0$.
+> - Die [Determinante](../Quadratische%20Matrizen/Determinanten/Determinante.md) von $M$ ist nicht Null, also $\det (M) \ne 0$.
 > - Die [reduzierte Zeilenstufenform](../Zeilenstufenform/Zeilenstufenform.md) von $M$ ist die $n\times n$-[Einheitsmatrix](../Quadratische%20Matrizen/Einheitsmatrix.md) $I_n$.
 > - Das [ineare Gleichungssystem](../../Lineare%20Gleichungssysteme/Lineares%20Gleichungssystem.md) $M\vec{x} = \vec{b}$ hat eine eindeutige [Lösung](../../Lineare%20Gleichungssysteme/Lösen%20von%20LGS/Lösbarkeit.md) für jedes $\vec{b}\in K^n$.
 > - Der [Kern](../Matrizenräume/Kern%20(Nullraum).md) von $M$ enthält nur den Nullvektor, also $\ker (M) = \{\vec{0}\}$

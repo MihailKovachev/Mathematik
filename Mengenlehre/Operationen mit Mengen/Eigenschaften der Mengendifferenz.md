@@ -1,5 +1,5 @@
 > [!THEOREM] Satz: Mächtigkeit der Mengendifferenz
-> Die [Mächtigkeit](../Mächtigkeit%20(Kardinalität).md) der [Mengendifferenz](Mengendifferenz.md) $A\setminus B$ hängt von der Mächtigkeit des [Durchschnitts](Durchschnitt.md) der [Mengen](../Menge.md) $A$ und $B$.
+> Die [Mächtigkeit](../Kardinalität/Kardinalität.md) der [Mengendifferenz](Mengendifferenz.md) $A\setminus B$ hängt von der Mächtigkeit des [Durchschnitts](Durchschnitt.md) der [Mengen](../Menge.md) $A$ und $B$.
 > $$|A\setminus B| = |A|-|A \cap B|$$
 > > [!PROOF]- Beweis
 

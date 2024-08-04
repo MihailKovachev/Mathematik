@@ -24,7 +24,7 @@
 > $$M_T = \begin{bmatrix}\vert & \vert & \vert \\ {}_{B_W}\mathbf{w}_1 & \cdots & {}_{B_W}\mathbf{w}_m \\ \vert & \vert & \vert \end{bmatrix} = \begin{bmatrix}\vert & \vert & \vert \\ {}_{B_W}T(\mathbf{b}_1^V) & \cdots & {}_{B_W}T(\mathbf{b}_m^V) \\ \vert & \vert & \vert \end{bmatrix}$$
 > 
 > > [!EXAMPLE]- Beispiel
-> > Wir betrachten die lineare Transformation $T: \mathbb{R}^3\to\mathbb{R}^3$, die die [Länge](../Euklidische%20Vektorräume/Norm%20(Länge).md) ihres Eingangsvektors verdoppelt und ihn umdreht.
+> > Wir betrachten die lineare Transformation $T: \mathbb{R}^3\to\mathbb{R}^3$, die die [Länge](../Euklidische%20Vektorräume/Kanonische%20Norm.md) ihres Eingangsvektors verdoppelt und ihn umdreht.
 > > 
 > > 1. Wir wählen die [Standardbasis](../../Geometrische%20Aspekte/Standardbasis.md) sowohl als Eingangs- als auch als Ausgangsbasis. 
 > > - Wir beschreiben die Auswirkung von $T$ auf die Basisvektoren $\hat\imath, \hat\jmath, \hat k$.

@@ -1,5 +1,5 @@
 > [!THEOREM] Geometrisches Skalarprodukt
-> Für das [kanonische Skalarprodukt](../../Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reelles%20Skalarprodukt.md) $\vec{u}^\mathsf{T}\cdot\vec{v}$ zweier [reeller Vektoren](../../Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reeller%20Spaltenvektor.md) $\vec{u},\vec{v}\in\mathbb{R}^3$ gilt
+> Für das [kanonische Skalarprodukt](../../Vektoren%20als%20Matrizen/Reelle%20Vektoren/Kanonisches%20Skalarprodukt.md) $\vec{u}^\mathsf{T}\cdot\vec{v}$ zweier [reeller Vektoren](../../Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reeller%20Spaltenvektor.md) $\vec{u},\vec{v}\in\mathbb{R}^3$ gilt
 > $$\vec{u}^\mathsf{T}\cdot\vec{v} = ||\vec{u}||||\vec{v}||\cos\angle(\vec{u};\vec{v})$$
 > ![](Resources/Skalarprodukt.png)
 > > [!PROOF]- Beweis

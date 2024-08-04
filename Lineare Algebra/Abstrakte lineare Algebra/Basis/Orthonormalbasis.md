@@ -1,3 +1,3 @@
 > [!DEFINITION] Definition: Orthonormalbasis
-> Eine **[Orthogonalbasis](Orthogonalbasis.md)** $B$ heißt **orthonormal** oder **Orthonormalbasis**, falls die [Norm](../Euklidische%20Vektorräume/Norm%20(Länge).md) aller ihrer Elemente gleich 1 ist.
+> Eine **[Orthogonalbasis](Orthogonalbasis.md)** $B$ heißt **orthonormal** oder **Orthonormalbasis**, falls die [Kanonische Norm](../Euklidische%20Vektorräume/Kanonische%20Norm.md) aller ihrer Elemente gleich 1 ist.
 > $$||\mathbf{v}|| = 1 \qquad \forall \mathbf{v}\in B$$

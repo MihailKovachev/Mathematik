@@ -1,5 +1,5 @@
 > [!THEOREM] Satz: Mächtigkeit der Vereinigung
-> Für die [Mächtigkeit](../Mächtigkeit%20(Kardinalität).md) der [Vereinigung](../Operationen%20mit%20Mengen/Vereinigung.md) zweier [Mengen](../Menge.md) gilt
+> Für die [Mächtigkeit](../Kardinalität/Kardinalität.md) der [Vereinigung](../Operationen%20mit%20Mengen/Vereinigung.md) zweier [Mengen](../Menge.md) gilt
 > $$|A\cup B| = |A|+|B|-|A\cap B|$$
 > > [!PROOF]- Beweis
 

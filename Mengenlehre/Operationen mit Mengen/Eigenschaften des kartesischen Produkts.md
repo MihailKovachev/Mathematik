@@ -1,5 +1,5 @@
 > [!THEOREM] Satz: Mächtigkeit des kartesischen Produkts
-> Füe die [Mächtigkeit](../Mächtigkeit%20(Kardinalität).md) des [kartesisches Produkts](Kartesisches%20Produkt.md) zweier [Mengen](../Menge.md) $A$ und $B$ gilt
+> Füe die [Mächtigkeit](../Kardinalität/Kardinalität.md) des [kartesisches Produkts](Kartesisches%20Produkt.md) zweier [Mengen](../Menge.md) $A$ und $B$ gilt
 > $$|A\times B| = |A|\cdot |B|$$
 > > [!PROOF]- Beweis
 
