@@ -1,0 +1,3 @@
+>[!DEFINITION] Definition: Umgebung
+>Die $r$**-Umgebung** eines [reellen Vektors](Reeller%20Spaltenvektor.md) $\vec{a}\in\mathbb{R}^n$ ist die [Menge](../../../../Mengenlehre/Menge.md) aller Vektoren, deren [Abstand](Kanonischer%20Abstand%20für%20reelle%20Vektoren.md) von $\vec{a}$ kleiner als $r$ ist:
+>$$U_r(\vec{a}) \overset{\text{def}}{=} \{\vec{v}\in\mathbb{R}^n\mid ||\vec{v}-\vec{a}||\lt r\}$$

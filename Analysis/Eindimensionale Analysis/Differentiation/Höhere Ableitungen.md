@@ -1,0 +1,2 @@
+> [!DEFINITION] Definition: (Stetig) differenzierbar
+> Eine [Funktion](../Funktionen/Funktion.md) $f:D\subseteq\mathbb{R}\to\mathbb{R}$ heißt $k$**-mal (stetig) differenzierbar**, falls ihre $k$-te [Ableitung](Ableitung%20und%20Differenzierbarkeit.md) existiert (und stetig ist).

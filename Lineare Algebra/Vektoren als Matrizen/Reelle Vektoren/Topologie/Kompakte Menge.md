@@ -1,0 +1,2 @@
+>[!DEFINITION] Definition: Kompakte Menge
+>Eine [Teilmenge](../../../../Mengenlehre/Teilmenge.md) $D\subseteq\mathbb{R}^n$ heißt **kompakt**, falls sie [abgeschlossen](Abgeschlossenheit.md) und [beschränkt](Beschränktheit.md) ist.
