@@ -1,0 +1,2 @@
+>[!DEFINITION] Definition: Geschlossene Kurve
+>Eine **geschlossene Kurve** ist eine [Kurve](Kurve.md), die eine [Parametrisierung](Kurve.md) $\mathbf{r}: [a;b]\to\mathbb{R}^n$ mit $\mathbf{r}(a)=\mathbf{r}(b)$ besitzt.

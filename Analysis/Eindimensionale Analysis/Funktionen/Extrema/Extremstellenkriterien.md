@@ -18,7 +18,7 @@
 > [!THEOREM] Satz: Kriterium der zweiten Ableitung
 > Sei $f: D \to\mathbb{R}$ eine [stetige](../../Grenzwerte%20von%20Funktionen/Stetigkeit/Stetigkeit.md) [Funktion](../../Funktionen/Funktion.md).
 > 
-> Eine [kritische Stelle](Kritische%20Stellen.md) $x_0$ der Funktion $f$ ist Stelle eines [lokalen Minimums](../../Funktionen/Extrema/Lokale%20Extrema.md), wenn $f''(x_0) \gt 0$.
+> Eine [kritische Stelle](../../Funktionen/Extrema/Kritische%20Stellen.md) $x_0$ der Funktion $f$ ist Stelle eines [lokalen Minimums](../../Funktionen/Extrema/Lokale%20Extrema.md), wenn $f''(x_0) \gt 0$.
 > 
 > Eine kritische Stelle $x_0$ der Funktion $f$ ist Stelle eines [lokalen Maximums](../../Funktionen/Extrema/Lokale%20Extrema.md), wenn $f''(x_0) \lt 0$.
 > 

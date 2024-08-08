@@ -1,0 +1,2 @@
+>[!DEFINITION] Definition: Stetigkeit eines Vektorfeldes
+>Ein [Vektorfeld](Vektorfeld.md) $\boldsymbol{v}: D\subseteq\mathbb{R}^n\to\mathbb{R}^n$ heißt **stetig** in $\vec{x}\in D$ (bzw. auf $D$), falls alle [Komponentenfunktionen](../Reelle%20Funktion%20mehrerer%20Veränderlicher.md) von $\boldsymbol{v}$ [stetig](../Skalarfelder/Stetigkeit%20von%20Skalarfeldern.md) in $\vec{x}$ (bzw. auf $D$) sind.

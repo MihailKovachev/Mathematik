@@ -3,7 +3,7 @@
 > > [!PROOF]- Beweis
 
 > [!THEOREM] Satz: Monotonie $\implies$ Integrierbarkeit
-> Jede [monotone](../../Funktionen/Monotonie%20reeller%20Funktionen.md) [Funktion](../../Funktionen/Funktion.md) ist [integrierbar](Resources/Bestimmtes%20Integral.png).
+> Jede [monotone](../../Funktionen/Monotonie/Monotonie%20reeller%20Funktionen.md) [Funktion](../../Funktionen/Funktion.md) ist [integrierbar](Resources/Bestimmtes%20Integral.png).
 > > [!PROOF]- Beweis
 
 > [!THEOREM] Satz: Integrierbarkeit des Betrags
