@@ -1,7 +1,7 @@
 ---
 Related:
   - "[[../../Funktionen/Funktion|Funktion]]"
-  - "[[../Grenzwerte|Grenzwerte]]"
+  - "[[../Konvergenz von Funktionen|Konvergenz von Funktionen]]"
 ---
 
 > [!DEFINITION] Definition: Stetigkeit 

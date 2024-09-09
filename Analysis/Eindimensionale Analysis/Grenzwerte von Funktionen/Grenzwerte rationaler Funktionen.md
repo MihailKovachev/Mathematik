@@ -1,6 +1,6 @@
 ---
 Related:
-  - "[[Grenzwerte|Grenzwerte]]"
+  - "[[Konvergenz von Funktionen|Konvergenz von Funktionen]]"
 ---
 
 > [!THEOREM] Satz: Grenzwerte rationaler Funktionen für $x \to \pm\infty$

@@ -3,6 +3,6 @@
 >
 >Das **skalare Kurvenintegral** von $f$ längs $\gamma$ ist das [bestimmte Integral](../../../../Eindimensionale%20Analysis/Integration/Bestimmte%20Integrale/Bestimmtes%20(Riemann-)Integral.md)
 >$$\int_\gamma f \mathop{\mathrm{d}s} \overset{\text{def}}{=}\int_a^b f(\gamma(t))\,||\dot{\gamma}(t)||\mathop{\mathrm{d}t}$$
->>[!NOTE] Bezeichnung
+>>[!NOTATION] Bezeichnung
 >>Falls $\gamma$ [geschlossen](../../Kurven/Geschlossene%20Kurve.md) ist, schreibt man
 >>$$\oint_\gamma f \mathop{\mathrm{d}s}$$

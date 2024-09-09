@@ -5,5 +5,5 @@
 >
 >>[!DEFINITION] Definition: Innere
 >>Die [Menge](../../../../Mengenlehre/Menge.md) aller inneren Punkte von $D$ heißt **das Innere** von $D$.
->>>[!NOTE] Bezeichnung
+>>>[!NOTATION] Bezeichnung
 >>>$$\mathring{D}$$

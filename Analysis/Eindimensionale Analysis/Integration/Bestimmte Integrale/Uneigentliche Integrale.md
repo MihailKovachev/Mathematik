@@ -15,4 +15,4 @@
 > Für $b,c\in\mathbb{R}$ und die [Funktion](../../Funktionen/Funktion.md) $f: (c;b]\to\mathbb{R}$ definiert man das **uneigentliche Integral**
 > $$\int_c^b f(x)\mathop{\mathrm{d}x} \overset{\text{def}}{=} \lim_{a\to c^+}\int_a^b f(x)\mathop{\mathrm{d}x}$$
 > 
-> Falls der jeweilige [Grenzwert](../../Grenzwerte%20von%20Funktionen/Grenzwerte.md) existiert und endlich ist, sagt man, dass das uneigentliche Integral **existiert** oder **konvergiert**, ansonsten nennt man es **nicht existent** oder **divergent**. 
+> Falls der jeweilige [Grenzwert](../../Grenzwerte%20von%20Funktionen/Konvergenz%20von%20Funktionen.md) existiert und endlich ist, sagt man, dass das uneigentliche Integral **existiert** oder **konvergiert**, ansonsten nennt man es **nicht existent** oder **divergent**. 

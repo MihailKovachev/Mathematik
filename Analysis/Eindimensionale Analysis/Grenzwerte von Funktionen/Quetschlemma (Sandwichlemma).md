@@ -1,6 +1,6 @@
 ---
 Related:
-  - "[[Grenzwerte|Grenzwerte]]"
+  - "[[Konvergenz von Funktionen|Konvergenz von Funktionen]]"
 ---
 
 > [!THEOREM] Lemma: Quetschlemma (Sandwichlemma)

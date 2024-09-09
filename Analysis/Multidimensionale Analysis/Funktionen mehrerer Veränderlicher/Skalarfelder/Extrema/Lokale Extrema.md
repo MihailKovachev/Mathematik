@@ -1,7 +1,7 @@
 >[!DEFINITION] Definition: Lokales Minimum
 >Sei $f: D\subseteq\mathbb{R}^n\to\mathbb{R}$ ein [Skalarfeld](../Skalarfeld.md).
 >
->Man nennt $f(\vec{x}_0)$ ein **lokales Minimum** und $\vec{x}_0\in D$ **Stelle eines lokalen Minimums**,  falls es ein $\varepsilon \gt 0$ gibt, sodass $f(\vec{x}_0)$ kleiner als alle anderen Funktionswerte in der $\varepsilon$[-Umgebung](../../../../../Lineare%20Algebra/Vektoren%20als%20Matrizen/Reelle%20Vektoren/Topologie/Umgebung.md) von $\vec{x}_0$ ist.
+>Man nennt $f(\vec{x}_0)$ ein **lokales Minimum** und $\vec{x}_0\in D$ **Stelle eines lokalen Minimums**,  falls es ein $\varepsilon \gt 0$ gibt, sodass $f(\vec{x}_0)$ kleiner als alle anderen Funktionswerte in der $\varepsilon$[-Umgebung](../../../../../Topologie/Umgebung.md) von $\vec{x}_0$ ist.
 >
 >$$f(\vec{x}_0) \le f(\vec{x}) \qquad \forall \vec{x}\in U_\varepsilon (\vec{x}_0)$$
 >
@@ -9,7 +9,7 @@
 >[!DEFINITION] Definition: Lokales Maximum
 >Sei $f: D\subseteq\mathbb{R}^n\to\mathbb{R}$ ein [Skalarfeld](../Skalarfeld.md).
 >
->Man nennt $f(\vec{x}_0)$ ein **lokales Maximum** und $\vec{x}_0\in D$ **Stelle eines lokalen Maximums**,  falls es ein $\varepsilon \gt 0$ gibt, sodass $f(\vec{x}_0)$ größer als alle anderen Funktionswerte in der $\varepsilon$[-Umgebung](../../../../../Lineare%20Algebra/Vektoren%20als%20Matrizen/Reelle%20Vektoren/Topologie/Umgebung.md) von $\vec{x}_0$ ist.
+>Man nennt $f(\vec{x}_0)$ ein **lokales Maximum** und $\vec{x}_0\in D$ **Stelle eines lokalen Maximums**,  falls es ein $\varepsilon \gt 0$ gibt, sodass $f(\vec{x}_0)$ größer als alle anderen Funktionswerte in der $\varepsilon$[-Umgebung](../../../../../Topologie/Umgebung.md) von $\vec{x}_0$ ist.
 >
 >$$f(\vec{x}_0) \ge f(\vec{x}) \qquad \forall \vec{x}\in U_\varepsilon (\vec{x}_0)$$
 >

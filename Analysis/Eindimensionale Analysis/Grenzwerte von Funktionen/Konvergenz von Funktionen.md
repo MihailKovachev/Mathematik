@@ -1,8 +1,3 @@
----
-Related:
-  - "[[../Funktionen/Funktion|Funktion]]"
----
-
 > [!DEFINITION] Definition: Grenzwert (Heine)
 > Die Zahl $L$ nennen wir einen **Grenzwert** der reellwertigen Funktion $f: D \to \mathbb{R}$ für $x\to c$, falls es für jede gegen $c$ konvergente Folge $x_1, x_2, \cdots$ die Folge $f(x_1),f(x_2),\cdots$ gegen $L$ konvergiert.
 

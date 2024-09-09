@@ -5,6 +5,3 @@
 >
 >Die Funktion $f$ heißt **stetig auf** $D$, falls $f$ in jedem $\vec{a}\in D$ stetig ist.
 >
->>[!THEOREM] Satz: Allgemeine Stetigkeit
->>Diese Definition stimmt mit der [allgemeinen Definition von Stetigkeit von Funktionen mehrerer Veränderlicher](../Stetigkeit%20von%20Funktionen%20mehrerer%20Veränderlicher.md).
->>>[!PROOF]- Beweis

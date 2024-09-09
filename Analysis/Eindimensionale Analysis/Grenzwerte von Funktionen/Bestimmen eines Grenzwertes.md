@@ -1,6 +1,6 @@
 ---
 Related:
-  - "[[Grenzwerte|Grenzwerte]]"
+  - "[[Konvergenz von Funktionen|Konvergenz von Funktionen]]"
 ---
 > [!ALGORITHM] Algorithmus: Bestimmen eines Grenzwertes
 > Wir versuchen

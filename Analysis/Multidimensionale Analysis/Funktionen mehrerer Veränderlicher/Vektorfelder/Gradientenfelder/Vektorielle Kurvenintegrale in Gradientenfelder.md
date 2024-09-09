@@ -4,7 +4,7 @@
 >>[!PROOF]- Beweis
 
 >[!THEOREM] Satz: Vektorielle Kurvenintegrale längs geschlossener Kurven
->Ist $\boldsymbol{v}: D\subseteq\mathbb{R}^n\to \mathbb{R}^n$ ein [Gradientenfeld](../../Skalarfelder/Differentiation/Gradient.md), so ist das [vektorielle Kurvenintegral](../Integration/Vektorielles%20Kurvenintegral.md) längs jeder [geschlossenen Kurve](../../Kurven/Geschlossene%20Kurve.md) $\mathcal{C}$ null.
+>Ist $\boldsymbol{v}: D\subseteq\mathbb{R}^n\to \mathbb{R}^n$ ein [Gradientenfeld](../../Skalarfelder/Differentiation/Partielle%20Differenzierbarkeit.md), so ist das [vektorielle Kurvenintegral](../Integration/Vektorielles%20Kurvenintegral.md) längs jeder [geschlossenen Kurve](../../Kurven/Geschlossene%20Kurve.md) $\mathcal{C}$ null.
 >$$\oint_\mathcal{C}\boldsymbol{v}\cdot\mathop{\mathrm{d}\vec{s}} = 0$$
 >>[!PROOF]- Beweis
 

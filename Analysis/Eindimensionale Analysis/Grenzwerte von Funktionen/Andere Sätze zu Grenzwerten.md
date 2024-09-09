@@ -1,6 +1,6 @@
 ---
 Related:
-  - "[[Grenzwerte|Grenzwerte]]"
+  - "[[Konvergenz von Funktionen|Konvergenz von Funktionen]]"
   - "[[../Funktionen/Beschränktheit reeller Funktionen|Beschränktheit reeller Funktionen]]"
 ---
 

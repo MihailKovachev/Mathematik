@@ -18,7 +18,7 @@
 > > $$\int_{x_0}^{x_0+\Delta x}f(t) \mathop{\mathrm{d}t} = f(\xi)(x_0 + \Delta x - x_0) = f(\xi)\cdot\Delta x$$
 > > Daraus folgt
 > > $$\frac{F(x_0+\Delta x) - F(x_0)}{\Delta x} = f(\xi)$$
-> > Wir betrachten nun den [Limes](../Grenzwerte%20von%20Funktionen/Grenzwerte.md) für $\Delta x \to 0$.
+> > Wir betrachten nun den [Limes](../Grenzwerte%20von%20Funktionen/Konvergenz%20von%20Funktionen.md) für $\Delta x \to 0$.
 > > $$\lim_{\Delta x \to 0}\frac{F(x_0+\Delta x) - F(x_0)}{\Delta x} = \lim_{\Delta x \to 0}f(\xi)$$
 > > Die linke Seite ist einfach die Ableitung von $F$ im Punkt $x_0$.
 > > Da $\xi$ zwischen $x_0$ und $\Delta x$ ist, gilt $\xi \to x_0$ für $\Delta x \to 0$. Das heißt

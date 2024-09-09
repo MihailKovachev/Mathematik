@@ -3,7 +3,7 @@
 > 
 > Eine **Riemann-Summe** von $f$ über dem durch $Z$ zerlegten Intervall $[a;b]$ ist eine Summe der Form
 > $$\sum_{i=1}^n f(x_i^\ast)\Delta x_i,$$
-> wobei $\Delta x_i = (x_i - x_{i-1})$ und $f(x_i^\ast) \in [x_{i-1};x_i]$.
+> wobei $\Delta x_i = (x_i - x_{i-1})$ und $x_i^\ast \in [x_{i-1};x_i]$.
 > > [!NOTE] Wahl von $x_i^\ast$
 > > Je nach der Wahl von $x_i^\ast$ erhält man verschiedene Riemann-Summen.
 > 
