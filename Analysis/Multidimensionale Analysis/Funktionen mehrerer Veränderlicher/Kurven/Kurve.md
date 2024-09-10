@@ -1,5 +1,5 @@
 >[!DEFINITION] Definition: Kurvenparametrisierung
->Eine **Kurve** $\mathcal{C}$ in $\mathbb{R}^n$ ist eine [Teilmenge](../../../../Mengenlehre/Teilmenge.md) von $\mathbb{R}^n$, für die eine [Funktion](../Reelle%20Funktion%20mehrerer%20Veränderlicher.md) der Form $\mathbf{r}: I\subseteq \mathbb{R} \to\mathbb{R}^n$ existiert, sodass $\mathcal{C}$ das [Bild](../../../../Mengenlehre/Abbildungen/Abbildung.md) von $\mathbf{r}$ ist.
+>Eine **Kurve** $\mathcal{C}$ in $\mathbb{R}^n$ ist eine [Teilmenge](../../../../Mengenlehre/Teilmenge.md) von $\mathbb{R}^n$, für die eine [stetige](../Stetigkeit%20von%20Funktionen%20mehrerer%20Veränderlicher.md) [Funktion](../Reelle%20Funktion%20mehrerer%20Veränderlicher.md) $\mathbf{r}: I\subseteq \mathbb{R} \to\mathbb{R}^n$ existiert, sodass $\mathcal{C}$ das [Bild](../../../../Mengenlehre/Abbildungen/Abbildung.md) von $\mathbf{r}$ ist.
 >
 >Die Funktion $\mathbf{r}$ nennt man eine **Parametrisierung** von $\mathcal{C}$.
 >

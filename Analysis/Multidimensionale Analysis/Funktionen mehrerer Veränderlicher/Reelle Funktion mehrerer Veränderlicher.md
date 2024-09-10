@@ -1,6 +1,6 @@
 >[!DEFINITION] Defintion: Reelle Funktion mehrerer Veränderlicher
 >Eine **reelle Funktion in** $n$ **Veränderlichen** ist eine [Abbildung](../../../Mengenlehre/Abbildungen/Abbildung.md) $f:D\subseteq \mathbb{R}^n\to\mathbb{R}^m$, die zu jedem [Spaltenvektor](../../../Lineare%20Algebra/Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reeller%20Spaltenvektor.md) $\vec{x}=\begin{bmatrix}x_1 & \cdots & x_n\end{bmatrix}^\mathsf{T}\in D$ genau einen [Spaltenvektor](../../../Lineare%20Algebra/Vektoren%20als%20Matrizen/Reelle%20Vektoren/Reeller%20Spaltenvektor.md) $\vec{y}=\begin{bmatrix}y_1 & \cdots & y_m\end{bmatrix}^\mathsf{T} \in\mathbb{R}^m$ zuordnet.
->>[!NOTE] Bezeichnung
+>>[!NOTATION] Bezeichnung
 >>$$\vec{y} = f(\vec{x})$$
 >>$$\vec{y} = f(x_1,\cdots,x_n)$$
 >
